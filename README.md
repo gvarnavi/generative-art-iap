@@ -23,5 +23,5 @@ If you're an MIT student, you can get a free student license for Mathematica fol
 If you don't have access to an academic license, you can download the free Wolfram player here: https://www.wolfram.com/player/ (Note you won't be able to edit the code).
 
 ### Installation instructions (Python)
-We'll use Google's [Collaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) to share and run notebooks.
+We'll use Google's [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) to share and run notebooks.
 If you already have a local installation of Jupyter, feel free to use that instead.
