@@ -1,0 +1,4 @@
+* text=auto
+
+*.nb binary
+*.ipynb binary
