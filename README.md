@@ -1,6 +1,6 @@
 # Generative Art Workshop (IAP 2020)
 
-This is the repository of the generative art workshop, taught by Jovanna Andrejevic, Nina Andrejevic, Amina Matt, and George Varnavides, in IAP 2020.
+This is the repository of the generative art workshop, taught by Jovana Andrejevic, Nina Andrejevic, Amina Matt, and George Varnavides, in IAP 2020.
 
 ## Communication
 At the risk of overwhelming you with communication, there are three main ways in which we'll communicate with you for this class.
@@ -14,7 +14,9 @@ While there are many great programming languages to do generative art with, the 
 2. Ease of prototyping (and learning) code
 3. Built-in (high-level) visualization functions
 
-Note that we'll try and provide *most* of the content in both Mathematica(.nb) and Jupyter(.ipynb) notebooks, and you can choose to follow along in either. Please plan to bring a laptop to class and install the software beforehand.
+However, the two do have their differences: Mathematica enables fast prototyping, with many sophisticated, built-in routines. Python will require more hands-on implementation; however, this also allows for a deeper understanding of the underlying algorithms.
+
+Note that we'll try and provide *most* of the content in both Mathematica(.nb) and Jupyter(.ipynb) notebooks; while we'll alternate presenting certain concepts in Mathematica and others in Python, you will have the corresponding notebook in the other language for reference. Please plan to bring a laptop to class and install the software beforehand.
 
 ### Installation instructions (Wolfram Language)
 If you're an MIT student, you can get a free student license for Mathematica following IST's instructions here: https://ist.mit.edu/mathematica/desktop.
