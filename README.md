@@ -1,6 +1,6 @@
 # Generative Art Workshop (IAP 2020)
 
-This is the repository of the generative art workshop, taught by Jovana Andrejevic, Nina Andrejevic, Amina Matt, and George Varnavides, in IAP 2020.
+This is the repository of the generative art workshop, taught by Jovana Andrejevic, Nina Andrejevic, Amina Matt, and George Varnavides, in IAP 2020. This is the third iteration of this generative art workshop taught over IAP by the instructors (previously taught in 2017 and 2018 with Emma Vargo), we are indedbted to Emma for some of the original content we'll use in the workshop.
 
 ## Communication
 At the risk of overwhelming you with communication, there are three main ways in which we'll communicate with you for this class.
