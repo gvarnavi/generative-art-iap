@@ -81,7 +81,7 @@ A Gallery of fractals, strange attractors, patterns, and more produced by the sy
 | | | | |
 |:------------------:|:------------------:|:------------------:|:------------------:|
 | [<img src="3D-printing/SingleGyroid.png" width="200">](3D-printing/SingleGyroid.png) | [<img src="3D-printing/DoubleGyroid.png" width="200">](3D-printing/DoubleGyroid.png) | [<img src="3D-printing/SphericalGyroid.png" width="200">](3D-printing/SphericalGyroid.png) | [<img src="3D-printing/LargerSphericalGyroid.png" width="200">](3D-printing/LargerSphericalGyroid.png) |
-|[<img src="3D-printing/SlicedSphericalGyroid.png" width="200">](3D-printing/SlicedSphericalGyroid.png) | [<img src="3D-printing/torusGyroid.png" width="200">](3D-printing/torusGyroid.png) | [<img src="3D-printing/trefoilGyroid.png" width="200">](3D-printing/trefoilGyroid.png) | [<img src="3D-printing/SierpinskiMesh.png" width="200">](3D-printing/SierpinskiMesh.png) |
+|[<img src="3D-printing/slicedSphericalGyroid.png" width="200">](3D-printing/slicedSphericalGyroid.png) | [<img src="3D-printing/torusGyroid.png" width="200">](3D-printing/torusGyroid.png) | [<img src="3D-printing/trefoilGyroid.png" width="200">](3D-printing/trefoilGyroid.png) | [<img src="3D-printing/SierpinskiMesh.png" width="200">](3D-printing/SierpinskiMesh.png) |
 |[<img src="3D-printing/Menger.png" width="200">](3D-printing/Menger.png) | [<img src="3D-printing/LorentzAttractor.png" width="200">](3D-printing/LorentzAttractor.png) | [<img src="3D-printing/dlaWithFrame.png" width="200">](3D-printing/dlaWithFrame.png) | [<img src="3D-printing/ringWithBeds.png" width="200">](3D-printing/ringWithBeds.png) |
 
 ## Miscellaneous
