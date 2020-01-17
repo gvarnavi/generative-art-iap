@@ -19,7 +19,7 @@ A Gallery of fractals, strange attractors, patterns, and more produced by the sy
 ## Strange Attractors
 
 ## Stochastic Hill Climber
-[<img src="Stochastic-Hill-Climber/stochasticHillClimber.png" width="1000">](Stochastic-Hill-Climber/stochasticHillClimber.png)
+[<img src="Stochastic-Hill-Climber/stochasticHillClimber.png" width="900">](Stochastic-Hill-Climber/stochasticHillClimber.png)
 
 ## Cellular Automata
 | | | |
