@@ -35,6 +35,12 @@ A Gallery of fractals, strange attractors, patterns, and more produced by the sy
 |:------------------:|:------------------:|:------------------:|
 | [<img src="Cellular-Automata/non-conserved-order-CA.png" width="333">](Cellular-Automata/non-conserved-order-CA.png) | [<img src="Cellular-Automata/spinodal-decomposition.png" width="333">](Cellular-Automata/spinodal-decomposition.png) | [<img src="Cellular-Automata/spinodal-decomposition-CA.png" width="333">](Cellular-Automata/spinodal-decomposition-CA.png) |
 
+| | | | |
+|:------------------:|:------------------:|:------------------:|:------------------:|
+| [<img src="Cellular-Automata/cellular_automata_18.png" width="200">](Cellular-Automata/cellular_automata_18.png) |
+[<img src="Cellular-Automata/cellular_automata_211.png" width="200">](Cellular-Automata/cellular_automata_211.png) | [<img src="Cellular-Automata/cellular_automata_110.png" width="200">](Cellular-Automata/cellular_automata_110.png) | [<img src="Cellular-Automata/cellular_automata_9.png" width="200">](Cellular-Automata/cellular_automata_9.png) |
+|[<img src="Cellular-Automata/cellular_automata_57.png" width="200">](Cellular-Automata/cellular_automata_57.png) | [<img src="Cellular-Automata/cellular_automata_101.png" width="200">](Cellular-Automata/cellular_automata_101.png) | [<img src="Cellular-Automata/cellular_automata_169.png" width="200">](Cellular-Automata/cellular_automata_169.png) | [<img src="Cellular-Automata/cellular_automata_54.png" width="200">](Cellular-Automata/cellular_automata_54.png) |
+
 ## Reaction-Diffusion
 | | | | |
 |:------------------:|:------------------:|:------------------:|:------------------:|
