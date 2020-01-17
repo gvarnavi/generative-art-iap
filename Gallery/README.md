@@ -5,9 +5,9 @@ A Gallery of fractals, strange attractors, patterns, and more produced by the sy
 ## Geometric L-Systems
 | | | | |
 |:------------------:|:------------------:|:------------------:|:------------------:|
-| [<img src="Geometric-L-Systems/dragon-curve.png" width="200">](Geometric-L-Systems/dragon-curve.png) | [<img src="Geometric-L-Systems/hurricane.png" width="200">](Geometric-L-Systems/hurricane.png) | [<img src="Geometric-L-Systems/sierpinski-triangle.png" width="200">](Geometric-L-Systems/sierpinski-triangle.png) | [<img src="Geometric-L-Systems/koch-snowflake.png" width="200">](Geometric-L-Systems/koch-snowflake.png) |
-| [<img src="Geometric-L-Systems/fractal-plant.png" width="200">](Geometric-L-Systems/fractal-plant.png) | [<img src="Geometric-L-Systems/genetic-doodle.png" width="200">](Geometric-L-Systems/genetic-doodle.png) | [<img src="Geometric-L-Systems/genetic-lollipop.png" width="200">](Geometric-L-Systems/genetic-lollipop.png) | [<img src="Geometric-L-Systems/genetic-spikey.png" width="200">](Geometric-L-Systems/genetic-spikey.png) |
-| [<img src="Geometric-L-Systems/diffusion-limited-aggregation.png" width="200">](Geometric-L-Systems/diffusion-limited-aggregation.png) | | | |
+| [<img src="Geometric-L-Systems/dragon-curve.png" width="200">](Geometric-L-Systems/dragon-curve.png) | [<img src="Geometric-L-Systems/fractal-plant.png" width="200">](Geometric-L-Systems/fractal-plant.png) | [<img src="Geometric-L-Systems/genetic-doodle.png" width="200">](Geometric-L-Systems/genetic-doodle.png) | [<img src="Geometric-L-Systems/genetic-spikey.png" width="200">](Geometric-L-Systems/genetic-spikey.png) |
+| [<img src="Geometric-L-Systems/genetic-lollipop.png" width="200">](Geometric-L-Systems/genetic-lollipop.png) | | [<img src="Geometric-L-Systems/sierpinski-triangle.png" width="200">](Geometric-L-Systems/sierpinski-triangle.png) | [<img src="Geometric-L-Systems/koch-snowflake.png" width="200">](Geometric-L-Systems/koch-snowflake.png) | [<img src="Geometric-L-Systems/diffusion-limited-aggregation.png" width="200">](Geometric-L-Systems/diffusion-limited-aggregation.png) | 
+| [<img src="Geometric-L-Systems/hurricane.png" width="200">](Geometric-L-Systems/hurricane.png) | | | |
 
 ## Mathematical Fractals
 | | | | |
@@ -34,4 +34,8 @@ A Gallery of fractals, strange attractors, patterns, and more produced by the sy
 | [<img src="Reaction-Diffusion/gray_scott_034_057_1.png" width="200">](Reaction-Diffusion/gray_scott_034_057_1.png) | [<img src="Reaction-Diffusion/gray_scott_034_057_2.png" width="200">](Reaction-Diffusion/gray_scott_034_057_2.png) | [<img src="Reaction-Diffusion/gray_scott_034_057_3.png" width="200">](Reaction-Diffusion/gray_scott_034_057_3.png) | [<img src="Reaction-Diffusion/gray_scott_034_057_4.png" width="200">](Reaction-Diffusion/gray_scott_034_057_4.png) |
 | [<img src="Reaction-Diffusion/gray_scott_060_062_1.png" width="200">](Reaction-Diffusion/gray_scott_060_062_1.png) | [<img src="Reaction-Diffusion/gray_scott_060_062_2.png" width="200">](Reaction-Diffusion/gray_scott_060_062_2.png) | [<img src="Reaction-Diffusion/gray_scott_060_062_3.png" width="200">](Reaction-Diffusion/gray_scott_060_062_3.png) | [<img src="Reaction-Diffusion/gray_scott_060_062_4.png" width="200">](Reaction-Diffusion/gray_scott_060_062_4.png) |
 
+## Miscellaneous
+| | | | |
+|:------------------:|:------------------:|:------------------:|:------------------:|
+| [<img src="Miscellaneous/moire_cow.png" width="200">](Miscellaneous/moire-cow.png) | [<img src="Miscellaneous/tie-dye.png" width="200">](Miscellaneous/tie-dye.png) | | |
 
