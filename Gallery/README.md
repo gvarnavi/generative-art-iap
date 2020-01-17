@@ -2,6 +2,13 @@
 
 A Gallery of fractals, strange attractors, patterns, and more produced by the systems studied in this course. Click on an image to navigate to a downloadable high-resolution version.
 
+## Geometric L-Systems
+| | | | |
+|:------------------:|:------------------:|:------------------:|:------------------:|
+| [<img src="Geometric-L-Systems/dragon_curve.png" width="200">](Geometric-L-Systems/dragon_curve.png) | [<img src="Geometric-L-Systems/hurricane.png" width="200">](Geometric-L-Systems/hurricane.png) | [<img src="Geometric-L-Systems/sierpinski-triangle.png" width="200">](Geometric-L-Systems/sierpinski-triangle.png) | [<img src="Geometric-L-Systems/koch-snowflake.png" width="200">](Geometric-L-Systems/koch-snowflake.png) |
+| [<img src="Geometric-L-Systems/fractal-plant.png" width="200">](Geometric-L-Systems/fractal-plant.png) | [<img src="Geometric-L-Systems/genetic-doodle.png" width="200">](Geometric-L-Systems/genetic-doodle.png) | [<img src="Geometric-L-Systems/genetic-lollipop.png" width="200">](Geometric-L-Systems/genetic-lollipop.png) | [<img src="Geometric-L-Systems/genetic-spikey.png" width="200">](Geometric-L-Systems/genetic-spikey.png) |
+| [<img src="Geometric-L-Systems/diffusion-limited-aggregation.png" width="200">](Geometric-L-Systems/diffusion-limited-aggregation.png) | | | |
+
 ## Mathematical Fractals
 | | | | |
 |:------------------:|:------------------:|:------------------:|:------------------:|
@@ -10,6 +17,14 @@ A Gallery of fractals, strange attractors, patterns, and more produced by the sy
 | [<img src="Mathematical-Fractals/complexlogistic_julia_swirl.png" width="200">](Mathematical-Fractals/complexlogistic_julia_swirl.png) | [<img src="Mathematical-Fractals/complexlogistic_julia_spiral.png" width="200">](Mathematical-Fractals/complexlogistic_julia_spiral.png) | | |
 
 ## Strange Attractors
+
+## Stochastic Hill Climber
+[<img src="Stochastic-Hill-Climber/stochasticHillClimber.png" width="1000">](Stochastic-Hill-Climber/stochasticHillClimber.png)
+
+## Cellular Automata
+| | | |
+|:------------------:|:------------------:|:------------------:|
+| [<img src="Cellular-Automata/non-conserved-order-CA.png" width="333">](Cellular-Automata/non-conserved-order-CA.png) | [<img src="Cellular-Automata/spinodal-decomposition.png" width="333">](Cellular-Automata/spinodal-decomposition.png) | [<img src="Cellular-Automata/spinodal-decomposition-CA.png" width="333">](Cellular-Automata/spinodal-decomposition-CA.png) |
 
 ## Reaction-Diffusion
 | | |
