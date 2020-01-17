@@ -28,9 +28,9 @@ A Gallery of fractals, strange attractors, patterns, and more produced by the sy
 | [<img src="Strange-Attractors/periodic_attractor_plus.png" width="200">](Strange-Attractors/periodic_attractor_plus.png) | | | |
 
 ## Stochastic Hill Climber
-| |
-|:------------------:|
-| [<img src="Stochastic-Hill-Climber/stochasticHillClimber.png" width="800">](Stochastic-Hill-Climber/stochasticHillClimber.png) |
+| | | |
+|:------------------:|:------------------:|:------------------:|
+| [<img src="Stochastic-Hill-Climber/stochasticHillClimber.png" width="333">](Stochastic-Hill-Climber/stochasticHillClimber.png) | | |
 
 ## Cellular Automata
 | | | |
@@ -45,9 +45,9 @@ A Gallery of fractals, strange attractors, patterns, and more produced by the sy
 | [<img src="Reaction-Diffusion/gray_scott_034_057_1.png" width="200">](Reaction-Diffusion/gray_scott_034_057_1.png) | [<img src="Reaction-Diffusion/gray_scott_034_057_2.png" width="200">](Reaction-Diffusion/gray_scott_034_057_2.png) | [<img src="Reaction-Diffusion/gray_scott_034_057_3.png" width="200">](Reaction-Diffusion/gray_scott_034_057_3.png) | [<img src="Reaction-Diffusion/gray_scott_034_057_4.png" width="200">](Reaction-Diffusion/gray_scott_034_057_4.png) |
 | [<img src="Reaction-Diffusion/gray_scott_060_062_1.png" width="200">](Reaction-Diffusion/gray_scott_060_062_1.png) | [<img src="Reaction-Diffusion/gray_scott_060_062_2.png" width="200">](Reaction-Diffusion/gray_scott_060_062_2.png) | [<img src="Reaction-Diffusion/gray_scott_060_062_3.png" width="200">](Reaction-Diffusion/gray_scott_060_062_3.png) | [<img src="Reaction-Diffusion/gray_scott_060_062_4.png" width="200">](Reaction-Diffusion/gray_scott_060_062_4.png) |
 
-| |
-|:------------------:|
-| [<img src="Reaction-Diffusion/gray-scott-seeded-absorbingBC.png" width="800">](Reaction-Diffusion/gray-scott-seeded-absorbingBC.png) |
+| | | |
+|:------------------:|:------------------:|:------------------:|
+| [<img src="Reaction-Diffusion/gray-scott-seeded-absorbingBC.png" width="333">](Reaction-Diffusion/gray-scott-seeded-absorbingBC.png) | | |
 
 ## Miscellaneous
 | | | | |
