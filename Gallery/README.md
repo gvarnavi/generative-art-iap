@@ -4,7 +4,8 @@ A Gallery of fractals, strange attractors, patterns, and more produced by the sy
 
 ## Mathematical Fractals
 
-![[[Mathematical-Fractals/quadratic_julia_romanesco.png|width=50px]]](Mathematical-Fractals/quadratic_julia_romanesco.png)
+
+[[<img src="Mathematical-Fractals/quadratic_julia_romanesco.png" width="100">]](Mathematical-Fractals/quadratic_julia_romanesco.png)
 
 ![[[Mathematical-Fractals/quadratic_julia_paisley.png|width=50px]]](Mathematical-Fractals/quadratic_julia_paisley.png)
 
