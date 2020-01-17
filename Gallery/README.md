@@ -27,9 +27,11 @@ A Gallery of fractals, strange attractors, patterns, and more produced by the sy
 | [<img src="Cellular-Automata/non-conserved-order-CA.png" width="333">](Cellular-Automata/non-conserved-order-CA.png) | [<img src="Cellular-Automata/spinodal-decomposition.png" width="333">](Cellular-Automata/spinodal-decomposition.png) | [<img src="Cellular-Automata/spinodal-decomposition-CA.png" width="333">](Cellular-Automata/spinodal-decomposition-CA.png) |
 
 ## Reaction-Diffusion
-| | |
-|:------------------:|:------------------:|
-| [<img src="Reaction-Diffusion/gray_scott_020_057.png" width="400">](Reaction-Diffusion/gray_scott_020_057.png) | [<img src="Reaction-Diffusion/gray_scott_030_057.png" width="400">](Reaction-Diffusion/gray_scott_030_057.png) |
-| [<img src="Reaction-Diffusion/gray_scott_034_057.png" width="400">](Reaction-Diffusion/gray_scott_034_057.png) | [<img src="Reaction-Diffusion/gray_scott_060_062.png" width="400">](Reaction-Diffusion/gray_scott_060_062.png)
+| | | | |
+|:------------------:|:------------------:|:------------------:|:------------------:|
+| [<img src="Reaction-Diffusion/gray_scott_020_057_1.png" width="200">](Reaction-Diffusion/gray_scott_020_057_1.png) | [<img src="Reaction-Diffusion/gray_scott_020_057_2.png" width="200">](Reaction-Diffusion/gray_scott_020_057_2.png) | [<img src="Reaction-Diffusion/gray_scott_020_057_3.png" width="200">](Reaction-Diffusion/gray_scott_020_057_3.png) | [<img src="Reaction-Diffusion/gray_scott_020_057_4.png" width="200">](Reaction-Diffusion/gray_scott_020_057_4.png) |
+| [<img src="Reaction-Diffusion/gray_scott_030_057_1.png" width="200">](Reaction-Diffusion/gray_scott_030_057_1.png) | [<img src="Reaction-Diffusion/gray_scott_030_057_2.png" width="200">](Reaction-Diffusion/gray_scott_030_057_2.png) | [<img src="Reaction-Diffusion/gray_scott_030_057_3.png" width="200">](Reaction-Diffusion/gray_scott_030_057_3.png) | [<img src="Reaction-Diffusion/gray_scott_030_057_4.png" width="200">](Reaction-Diffusion/gray_scott_030_057_4.png) |
+| [<img src="Reaction-Diffusion/gray_scott_034_057_1.png" width="200">](Reaction-Diffusion/gray_scott_034_057_1.png) | [<img src="Reaction-Diffusion/gray_scott_034_057_2.png" width="200">](Reaction-Diffusion/gray_scott_034_057_2.png) | [<img src="Reaction-Diffusion/gray_scott_034_057_3.png" width="200">](Reaction-Diffusion/gray_scott_034_057_3.png) | [<img src="Reaction-Diffusion/gray_scott_034_057_4.png" width="200">](Reaction-Diffusion/gray_scott_034_057_4.png) |
+| [<img src="Reaction-Diffusion/gray_scott_060_062_1.png" width="200">](Reaction-Diffusion/gray_scott_060_062_1.png) | [<img src="Reaction-Diffusion/gray_scott_060_062_2.png" width="200">](Reaction-Diffusion/gray_scott_060_062_2.png) | [<img src="Reaction-Diffusion/gray_scott_060_062_3.png" width="200">](Reaction-Diffusion/gray_scott_060_062_3.png) | [<img src="Reaction-Diffusion/gray_scott_060_062_4.png" width="200">](Reaction-Diffusion/gray_scott_060_062_4.png) |
 
 
