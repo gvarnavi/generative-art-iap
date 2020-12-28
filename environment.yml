@@ -1,0 +1,10 @@
+
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - numba
+  - ffmpeg
