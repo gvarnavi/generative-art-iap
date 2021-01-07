@@ -4,13 +4,12 @@ This is the git repository of the generative art workshop, taught by Jovana Andr
 
 ## Communication
 ```diff
-! TO-DO: Update communication links
 ! TO-DO: Add zoom format description and links
 ```
-At the risk of overwhelming you with communication, there are three main ways in which we'll communicate with you for this class.
+There are three main ways in which we'll communicate for this class.
 * [Github repository](https://github.com/gvarnavi/generative-art-iap): To access the notebooks and files used in class
-* [generative-art-2020 Slack workspace](https://join.slack.com/t/generative-art-2020/shared_invite/enQtOTA0ODUzNzg4OTk4LWQwODgwYjQ4MzlhNjRlOTk0YjU1NzllYjk1MTZhNzk1N2JkOWI1MzM1ODZmMDkxMzM1YzQwM2JkMTZjYTE5NzE): To communicate with the instructors (and each other) during the class/office-hours
-* [generative-art-2020@mit.edu Mailing list](https://groups.mit.edu/webmoira/list/generative-art-2020): To communicate class-wide announcements
+* [Generative Art 2021 Slack workspace](https://join.slack.com/t/generativeart2021/shared_invite/zt-knj01qsy-5UvufhL4cBrjFEm6o9A~_g): To communicate with the instructors and each other (primary means of communication)
+* [generative-art-2021@mit.edu Mailing list](https://groups.mit.edu/webmoira/list/generative-art-2021): To communicate class-wide announcements (will be used very sparsely)
 
 ## Programming Languages
 While there are many great programming and scripting languages to do generative art with, the class will be taught using Python, the Wolfram Language, and (to a lesser extent) Julia. This choice is partly due to the following reasons (aside from the instructors' familiarity with these languages):
