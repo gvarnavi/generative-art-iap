@@ -1,0 +1,51 @@
+Highest elevation by state (ft)
+Alabama			2413
+Alaska			20310
+Arizona			12637
+Arkansas		2753
+California		14505
+Colorado		14440
+Connecticut		2379
+Delaware		447
+Florida			345
+Georgia			4784
+Hawaii			13803
+Idaho			12668
+Illinois		1235
+Indiana			1257
+Iowa			1671
+Kansas			4041
+Kentucky		4145
+Louisiana		535
+Maine			5270
+Maryland		3360
+Massachusetts	3489
+Michigan		1979
+Minnesota		2302
+Mississippi		807
+Missouri		1772
+Montana			12807
+Nebraska		5427
+Nevada			13147
+New Hampshire	6288
+New Jersey		1803
+New Mexico		13167
+New York		5343
+North Carolina	6684
+North Dakota	3508
+Ohio			1549
+Oklahoma		4975
+Oregon			11249
+Pennsylvania	2313
+Rhode Island	811
+South Carolina	3560
+South Dakota	7244
+Tennessee		6643
+Texas			8751
+Utah			13534
+Vermont			4395
+Virginia		5729
+Washington		14417
+West Virginia	4863
+Wisconsin		1951
+Wyoming			13809	
