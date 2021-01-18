@@ -9,5 +9,5 @@
 | 10:40-11:00   | Your turn! + Introduce Yourselves  | Breakout Rooms | | |
 | 11:00-11:45   | Geometric L-Systems   | George         | [03_geometric-l-systems-wl.ipynb](https://github.com/gvarnavi/generative-art-iap/blob/master/01.19-Tuesday/03_geometric-l-systems-wl.ipynb)| [python-kernel](https://github.com/gvarnavi/generative-art-iap/blob/master/01.19-Tuesday/03X_geometric-l-systems-py.ipynb), [wolfram-cloud](https://www.wolframcloud.com/obj/gvarnavi/Published/03X_geometric-l-systems.nb)|
 | 11:45-noon    | Your turn!            | Breakout Rooms | | |
-| noon-12:30    | Audio L-Systems       | George         | [04_audio-l-systems.nb wolfram cloud](https://www.wolframcloud.com/obj/gvarnavi/Published/04_audio-l-systems.nb)| [wolfram-kernel](https://github.com/gvarnavi/generative-art-iap/blob/master/01.19-Tuesday/04X_audio-l-systems-wl.ipynb)|
+| noon-12:30    | Audio L-Systems       | George         | [04_audio-l-systems.nb](https://www.wolframcloud.com/obj/gvarnavi/Published/04_audio-l-systems.nb)| [wolfram-kernel](https://github.com/gvarnavi/generative-art-iap/blob/master/01.19-Tuesday/04X_audio-l-systems-wl.ipynb)|
 
