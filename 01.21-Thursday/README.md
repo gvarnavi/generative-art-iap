@@ -8,6 +8,6 @@
 | 10:35-11:05   | Discrete Physical Systems    | George         | [02_discrete-physical-systems.nb](https://www.wolframcloud.com/obj/gvarnavi/Published/02_discrete-physical-systems.nb)| [wolfram-kernel](https://github.com/gvarnavi/generative-art-iap/blob/master/01.21-Thursday/02X_discrete-physical-systems-wl.ipynb) |
 | 11:05-11:20   | _On-the-fly_                 | Nina           | | |
 | 11:20-11:45   | Differentiable CAs (NNs)     | George         | [03_differentiable-cellular-automata.nb](https://www.wolframcloud.com/obj/gvarnavi/Published/03_differentiable-cellular-automata.nb)| |
-| 11:45-12:45   | Continuous Physical Systems  | Jovana         | | |
+| 11:45-12:45   | Continuous Physical Systems  | Jovana         |[04_continuous-physical-systems-py.ipynb](https://www.wolframcloud.com/obj/gvarnavi/Published/04_continuous-physical-systems-py.ipynb)| |
 | 12:45-13:00   | Your turn!                   | Breakout Rooms | | |
 
