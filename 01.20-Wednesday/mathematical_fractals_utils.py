@@ -5,7 +5,6 @@ import seaborn as sns
 from matplotlib.colors import ListedColormap
 
 sns.set(font_scale=1.5, style='white')
-plt.rcParams['font.family'] = 'Myriad Pro'
 plt.rcParams['axes.linewidth'] = 1
 plt.rcParams['xtick.bottom'] = True
 plt.rcParams['ytick.left'] = True

@@ -1,5 +1,5 @@
 # Generative Art Workshop (IAP 2021)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvarnavi/generative-art-iap-binder-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fgvarnavi%252Fgenerative-art-iap%26urlpath%3Dtree%252Fgenerative-art-iap%252F%26branch%3Dmaster)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://gke2.mybinder.org/v2/gh/gvarnavi/generative-art-iap-binder-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fgvarnavi%252Fgenerative-art-iap%26urlpath%3Dtree%252Fgenerative-art-iap%252F%26branch%3Dmaster)  
 This is the git repository of the generative art workshop, taught by Jovana Andrejevic, Nina Andrejevic, and George Varnavides, in IAP 2021. This is the fourth iteration of the generative art workshop taught over IAP by the instructors (previously taught in 2017 and 2018 with Emma Vargo, and in 2020 with Amina Matt). We are indebted to Emma and Amina for some of the original content we'll use in the workshop.
 
 ## Communication
@@ -20,5 +20,5 @@ Note that we'll try and provide *most* of the content in both languages; while w
 
 ### Installation instructions
 You shouldn't need to install anything to follow-along! 
-Just follow the link to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvarnavi/generative-art-iap-binder-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fgvarnavi%252Fgenerative-art-iap%26urlpath%3Dtree%252Fgenerative-art-iap%252F%26branch%3Dmaster) (you might have to wait a minute or two for the instance to launch).  
+Just follow the link to [![Binder](https://mybinder.org/badge_logo.svg)](https://gke2.mybinder.org/v2/gh/gvarnavi/generative-art-iap-binder-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fgvarnavi%252Fgenerative-art-iap%26urlpath%3Dtree%252Fgenerative-art-iap%252F%26branch%3Dmaster) (you might have to wait a bit for instance to launch).  
 If you prefer to clone the repository and follow-along locally, follow [these instructions](https://github.com/WolframResearch/WolframLanguageForJupyter) to set up a Wolfram Engine kernel with jupyter.  
