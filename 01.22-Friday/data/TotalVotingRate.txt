@@ -1,0 +1,51 @@
+State	TotalVotingRate
+Alabama	0.563712
+Alaska	0.5940610000000001
+Arizona	0.53288
+Arkansas	0.560106
+California	0.482247
+Colorado	0.6381870000000001
+Connecticut	0.57489
+Delaware	0.571709
+Florida	0.529428
+Georgia	0.556772
+Hawaii	0.432748
+Idaho	0.5829529999999999
+Illinois	0.588256
+Indiana	0.560321
+Iowa	0.6073810000000001
+Kansas	0.580303
+Kentucky	0.552576
+Louisiana	0.5968840000000001
+Maine	0.713014
+Maryland	0.591958
+Massachusetts	0.616879
+Michigan	0.61814
+Minnesota	0.653494
+Mississippi	0.6670480000000001
+Missouri	0.6281720000000001
+Montana	0.652467
+Nebraska	0.634282
+Nevada	0.534962
+New Hampshire	0.668524
+New Jersey	0.5341
+New Mexico	0.49445500000000003
+New York	0.507469
+North Carolina	0.615973
+North Dakota	0.621371
+Ohio	0.613801
+Oklahoma	0.53186
+Oregon	0.609727
+Pennsylvania	0.6020190000000001
+Rhode Island	0.5551820000000001
+South Carolina	0.598218
+South Dakota	0.573368
+Tennessee	0.520201
+Texas	0.47720399999999996
+Utah	0.588764
+Vermont	0.610498
+Virginia	0.626353
+Washington	0.604808
+West Virginia	0.504223
+Wisconsin	0.687038
+Wyoming	0.635263

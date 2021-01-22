@@ -1,0 +1,51 @@
+State	HealthInsurancePeopleNotCovered
+Alabama	711302.
+Alaska	133848.
+Arizona	1.198324e6
+Arkansas	534965.
+California	6.787453e6
+Colorado	704532.
+Connecticut	283631.
+Delaware	97334.
+Florida	4.1163990000000005e6
+Georgia	1.856223e6
+Hawaii	104845.
+Idaho	252948.
+Illinois	1.731845e6
+Indiana	848573.
+Iowa	305640.
+Kansas	358399.
+Kentucky	682218.
+Louisiana	819410.
+Maine	126202.
+Maryland	732544.
+Massachusetts	272126.
+Michigan	1.059696e6
+Minnesota	443001.
+Mississippi	443685.
+Missouri	793925.
+Montana	181221.
+Nebraska	245418.
+Nevada	642493.
+New Hampshire	157199.
+New Jersey	1.223216e6
+New Mexico	453215.
+New York	2.185195e6
+North Carolina	1.65833e6
+North Dakota	79739.
+Ohio	1.401784e6
+Oklahoma	639833.
+Oregon	596865.
+Pennsylvania	1.520611e6
+Rhode Island	127703.
+South Carolina	665286.
+South Dakota	118760.
+Tennessee	892107.
+Texas	6.425592e6
+Utah	411349.
+Vermont	42836.
+Virginia	997665.
+Washington	932584.
+West Virginia	264286.
+Wisconsin	549798.
+Wyoming	88797.

@@ -1,0 +1,51 @@
+State	HealthInsurancePeopleCovered
+Alabama	4.1052039999999995e6
+Alaska	570309.
+Arizona	5.445836e6
+Arkansas	2.379021e6
+California	3.1197274e7
+Colorado	4.455727e6
+Connecticut	3.237374e6
+Delaware	804463.
+Florida	1.5067518e7
+Georgia	7.815894e6
+Hawaii	1.251274e6
+Idaho	1.336649e6
+Illinois	1.1005115e7
+Indiana	5.499321e6
+Iowa	2.70744e6
+Kansas	2.476677e6
+Kentucky	3.671394e6
+Louisiana	3.647108e6
+Maine	1.205616e6
+Maryland	5.166944e6
+Massachusetts	6.302689e6
+Michigan	8.681528e6
+Minnesota	4.913905e6
+Mississippi	2.451632e6
+Missouri	5.169453e6
+Montana	819449.
+Nebraska	1.604884e6
+Nevada	2.0971350000000002e6
+New Hampshire	1.15284e6
+New Jersey	7.502e6
+New Mexico	1.61427e6
+New York	1.7143339e7
+North Carolina	7.995083e6
+North Dakota	613692.
+Ohio	1.0009479e7
+Oklahoma	3.074244e6
+Oregon	3.2805e6
+Pennsylvania	1.1171827e7
+Rhode Island	907959.
+South Carolina	4.003202e6
+South Dakota	705811.
+Tennessee	5.536135e6
+Texas	1.9686962e7
+Utah	2.442168e6
+Vermont	572343.
+Virginia	7.013232e6
+Washington	5.940335e6
+West Virginia	1.541818e6
+Wisconsin	5.098602e6
+Wyoming	489544.

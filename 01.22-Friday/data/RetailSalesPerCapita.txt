@@ -1,0 +1,51 @@
+State	RetailSalesPerCapita
+Alabama	12364.
+Alaska	13635.
+Arizona	13637.
+Arkansas	11602.
+California	12561.
+Colorado	13609.
+Connecticut	14953.
+Delaware	16421.
+Florida	14353.
+Georgia	12326.
+Hawaii	13793.
+Idaho	13691.
+Illinois	12947.
+Indiana	12408.
+Iowa	13172.
+Kansas	12444.
+Kentucky	11843.
+Louisiana	12921.
+Maine	15520.
+Maryland	13429.
+Massachusetts	13553.
+Michigan	10855.
+Minnesota	13751.
+Mississippi	11552.
+Missouri	12957.
+Montana	15343.
+Nebraska	14965.
+Nevada	14579.
+New Hampshire	19246.
+New Jersey	14453.
+New Mexico	12429.
+New York	11879.
+North Carolina	12641.
+North Dakota	16495.
+Ohio	12049.
+Oklahoma	11931.
+Oregon	13494.
+Pennsylvania	13323.
+Rhode Island	11646.
+South Carolina	12273.
+South Dakota	15390.
+Tennessee	12563.
+Texas	13061.
+Utah	13730.
+Vermont	15005.
+Virginia	13687.
+Washington	14380.
+West Virginia	11340.
+Wisconsin	12904.
+Wyoming	17114.

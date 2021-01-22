@@ -1,0 +1,51 @@
+State	NewPrivateHousingUnitsValue
+Alabama	2.143551e9
+Alaska	2.09152e8
+Arizona	4.483012e9
+Arkansas	9.94363e8
+California	1.2301108e10
+Colorado	3.99913e9
+Connecticut	1.157603e9
+Delaware	3.93566e8
+Florida	1.0769128e10
+Georgia	4.954903e9
+Hawaii	1.170964e9
+Idaho	1.130023e9
+Illinois	3.783176e9
+Indiana	2.470263e9
+Iowa	1.318636e9
+Kansas	1.172905e9
+Kentucky	1.298105e9
+Louisiana	2.219881e9
+Maine	5.822e8
+Maryland	2.229682e9
+Massachusetts	1.898734e9
+Michigan	1.792241e9
+Minnesota	2.152534e9
+Mississippi	1.273544e9
+Missouri	1.889736e9
+Montana	3.59233e8
+Nebraska	8.5956e8
+Nevada	1.652952e9
+New Hampshire	5.93458e8
+New Jersey	2.801257e9
+New Mexico	1.066209e9
+New York	6.303799e9
+North Carolina	8.431871e9
+North Dakota	3.98841e8
+Ohio	2.928403e9
+Oklahoma	1.591314e9
+Oregon	2.24728e9
+Pennsylvania	4.144941e9
+Rhode Island	2.32341e8
+South Carolina	4.238715e9
+South Dakota	5.00498e8
+Tennessee	3.077919e9
+Texas	1.7582047e10
+Utah	1.826921e9
+Vermont	2.40716e8
+Virginia	4.078336e9
+Washington	5.063315e9
+West Virginia	4.83427e8
+Wisconsin	2.507463e9
+Wyoming	5.57538e8

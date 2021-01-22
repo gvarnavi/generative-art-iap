@@ -1,0 +1,51 @@
+State	HealthInsuranceCoverageRate
+Alabama	0.8520000000000001
+Alaska	0.81
+Arizona	0.8200000000000001
+Arkansas	0.816
+California	0.821
+Colorado	0.863
+Connecticut	0.919
+Delaware	0.892
+Florida	0.785
+Georgia	0.8079999999999999
+Hawaii	0.9230000000000002
+Idaho	0.841
+Illinois	0.8640000000000001
+Indiana	0.866
+Iowa	0.899
+Kansas	0.8740000000000001
+Kentucky	0.843
+Louisiana	0.8170000000000001
+Maine	0.905
+Maryland	0.876
+Massachusetts	0.9590000000000001
+Michigan	0.891
+Minnesota	0.917
+Mississippi	0.8470000000000001
+Missouri	0.867
+Montana	0.8190000000000001
+Nebraska	0.867
+Nevada	0.765
+New Hampshire	0.88
+New Jersey	0.86
+New Mexico	0.7809999999999999
+New York	0.887
+North Carolina	0.828
+North Dakota	0.885
+Ohio	0.877
+Oklahoma	0.828
+Oregon	0.846
+Pennsylvania	0.88
+Rhode Island	0.877
+South Carolina	0.8570000000000001
+South Dakota	0.856
+Tennessee	0.861
+Texas	0.7540000000000001
+Utah	0.856
+Vermont	0.93
+Virginia	0.875
+Washington	0.8640000000000001
+West Virginia	0.8540000000000001
+Wisconsin	0.903
+Wyoming	0.846

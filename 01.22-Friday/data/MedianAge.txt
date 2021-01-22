@@ -1,0 +1,51 @@
+State	MedianAge
+Alabama	1.2204432e9
+Alaska	1.0690704e9
+Arizona	1.1731392e9
+Arkansas	1.1952144e9
+California	1.1384496e9
+Colorado	1.151064e9
+Connecticut	1.2866688e9
+Delaware	1.2551328e9
+Florida	1.3182048e9
+Georgia	1.1479104e9
+Hawaii	1.2235968e9
+Idaho	1.1321424e9
+Illinois	1.1889072e9
+Indiana	1.1826e9
+Iowa	1.2015216e9
+Kansas	1.1447568e9
+Kentucky	1.2172896e9
+Louisiana	1.1479104e9
+Maine	1.3970448e9
+Maryland	1.214136e9
+Massachusetts	1.2425184e9
+Michigan	1.2488256e9
+Minnesota	1.1952144e9
+Mississippi	1.1636784e9
+Missouri	1.2109824e9
+Montana	1.2551328e9
+Nebraska	1.1447568e9
+Nevada	1.1889072e9
+New Hampshire	1.3465872e9
+New Jersey	1.2488256e9
+New Mexico	1.1762928e9
+New York	1.2109824e9
+North Carolina	1.2109824e9
+North Dakota	1.1069136e9
+Ohio	1.2393648e9
+Oklahoma	1.1447568e9
+Oregon	1.2362112e9
+Pennsylvania	1.2835152e9
+Rhode Island	1.2582864e9
+South Carolina	1.229904e9
+South Dakota	1.1605248e9
+Tennessee	1.2172896e9
+Texas	1.0816848e9
+Utah	9.61848e8
+Vermont	1.3497408e9
+Virginia	1.198368e9
+Washington	1.1857536e9
+West Virginia	1.3308192e9
+Wisconsin	1.2362112e9
+Wyoming	1.166832e9

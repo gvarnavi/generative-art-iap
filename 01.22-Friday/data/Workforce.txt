@@ -1,0 +1,51 @@
+State	Workforce
+Alabama	2.0523000000000002e6
+Alaska	297600.
+Arizona	2.9354e6
+Arkansas	1.2498e6
+California	1.63572e7
+Colorado	2.6832e6
+Connecticut	1.6138e6
+Delaware	432100.
+Florida	8.6605e6
+Georgia	4.5617e6
+Hawaii	562000.
+Idaho	771800.
+Illinois	5.7523e6
+Indiana	3.0878e6
+Iowa	1.522e6
+Kansas	1.3823e6
+Kentucky	1.8575e6
+Louisiana	1.9084e6
+Maine	590600.
+Maryland	2.6717e6
+Massachusetts	3.3894e6
+Michigan	4.0626e6
+Minnesota	2.8027e6
+Mississippi	1.1441e6
+Missouri	2.8214e6
+Montana	471800.
+Nebraska	1.0093e6
+Nevada	1.3295e6
+New Hampshire	632500.
+New Jersey	3.9306e6
+New Mexico	809700.
+New York	8.94e6
+North Carolina	4.408e6
+North Dakota	412400.
+Ohio	5.2823e6
+Oklahoma	1.6425e6
+Oregon	1.8422e6
+Pennsylvania	5.697e6
+Rhode Island	472800.
+South Carolina	2.1522e6
+South Dakota	430000.
+Tennessee	3.0662e6
+Texas	1.25284e7
+Utah	1.5902e6
+Vermont	290600.
+Virginia	3.933e6
+Washington	3.3185e6
+West Virginia	679800.
+Wisconsin	2.7914e6
+Wyoming	271300.

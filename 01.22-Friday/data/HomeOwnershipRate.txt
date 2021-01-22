@@ -1,0 +1,51 @@
+State	HomeOwnershipRate
+Alabama	0.7070000000000001
+Alaska	0.626
+Arizona	0.658
+Arkansas	0.653
+California	0.5479999999999999
+Colorado	0.647
+Connecticut	0.643
+Delaware	0.731
+Florida	0.66
+Georgia	0.644
+Hawaii	0.6
+Idaho	0.706
+Illinois	0.6509999999999999
+Indiana	0.6950000000000001
+Iowa	0.6950000000000001
+Kansas	0.6920000000000001
+Kentucky	0.6950000000000001
+Louisiana	0.6559999999999999
+Maine	0.738
+Maryland	0.688
+Massachusetts	0.613
+Michigan	0.73
+Minnesota	0.7140000000000001
+Mississippi	0.7270000000000001
+Missouri	0.691
+Montana	0.687
+Nebraska	0.682
+Nevada	0.5820000000000001
+New Hampshire	0.75
+New Jersey	0.65
+New Mexico	0.674
+New York	0.52
+North Carolina	0.6509999999999999
+North Dakota	0.614
+Ohio	0.682
+Oklahoma	0.688
+Oregon	0.624
+Pennsylvania	0.6920000000000001
+Rhode Island	0.638
+South Carolina	0.726
+South Dakota	0.6950000000000001
+Tennessee	0.688
+Texas	0.624
+Utah	0.7190000000000001
+Vermont	0.7090000000000001
+Virginia	0.6759999999999999
+Washington	0.638
+West Virginia	0.756
+Wisconsin	0.6609999999999999
+Wyoming	0.713

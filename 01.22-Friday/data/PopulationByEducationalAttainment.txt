@@ -1,0 +1,51 @@
+State	PopulationByEducationalAttainment
+Alabama	3.276637e6
+Alaska	475442.
+Arizona	4.516175e6
+Arkansas	1.98577e6
+California	2.5950818e7
+Colorado	3.668477e6
+Connecticut	2.480297e6
+Delaware	651540.
+Florida	1.4396066e7
+Georgia	6.693826e6
+Hawaii	984320.
+Idaho	1.065313e6
+Illinois	8.666079e6
+Indiana	4.369451e6
+Iowa	2.067914e6
+Kansas	1.886741e6
+Kentucky	2.986199e6
+Louisiana	3.092069e6
+Maine	961086.
+Maryland	4.095427e6
+Massachusetts	4.706536e6
+Michigan	6.719972e6
+Minnesota	3.698605e6
+Mississippi	1.956101e6
+Missouri	4.100209e6
+Montana	703919.
+Nebraska	1.233842e6
+Nevada	1.968023e6
+New Hampshire	939471.
+New Jersey	6.163699e6
+New Mexico	1.38163e6
+New York	1.3660809e7
+North Carolina	6.784048e6
+North Dakota	485490.
+Ohio	7.88815e6
+Oklahoma	2.553488e6
+Oregon	2.797953e6
+Pennsylvania	8.885953e6
+Rhode Island	729261.
+South Carolina	3.325601e6
+South Dakota	560605.
+Tennessee	4.47845e6
+Texas	1.7454431e7
+Utah	1.74309e6
+Vermont	437900.
+Virginia	5.680765e6
+Washington	4.896055e6
+West Virginia	1.293665e6
+Wisconsin	3.907816e6
+Wyoming	388617.

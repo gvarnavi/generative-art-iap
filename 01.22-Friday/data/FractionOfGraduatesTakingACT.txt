@@ -1,0 +1,51 @@
+State	FractionOfGraduatesTakingACT
+Alabama	1.
+Alaska	0.39
+Arizona	0.56
+Arkansas	0.93
+California	0.3
+Colorado	1.
+Connecticut	0.32
+Delaware	0.21
+Florida	0.79
+Georgia	0.58
+Hawaii	0.93
+Idaho	0.42
+Illinois	1.
+Indiana	0.41000000000000003
+Iowa	0.67
+Kansas	0.74
+Kentucky	1.
+Louisiana	1.
+Maine	0.1
+Maryland	0.25
+Massachusetts	0.28
+Michigan	1.
+Minnesota	0.78
+Mississippi	1.
+Missouri	0.77
+Montana	1.
+Nebraska	0.88
+Nevada	0.4
+New Hampshire	0.23
+New Jersey	0.29
+New Mexico	0.71
+New York	0.28
+North Carolina	1.
+North Dakota	1.
+Ohio	0.73
+Oklahoma	0.8
+Oregon	0.38
+Pennsylvania	0.22
+Rhode Island	0.19
+South Carolina	0.62
+South Dakota	0.76
+Tennessee	1.
+Texas	0.41000000000000003
+Utah	1.
+Vermont	0.29
+Virginia	0.3
+Washington	0.25
+West Virginia	0.66
+Wisconsin	0.73
+Wyoming	1.

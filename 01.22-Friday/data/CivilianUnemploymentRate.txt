@@ -1,0 +1,51 @@
+State	CivilianUnemploymentRate
+Alabama	0.044000000000000004
+Alaska	0.081
+Arizona	0.078
+Arkansas	0.06200000000000001
+California	0.08199999999999999
+Colorado	0.064
+Connecticut	0.08199999999999999
+Delaware	0.051
+Florida	0.064
+Georgia	0.057
+Hawaii	0.10099999999999999
+Idaho	0.048
+Illinois	0.069
+Indiana	0.05
+Iowa	0.036000000000000004
+Kansas	0.055999999999999994
+Kentucky	0.055999999999999994
+Louisiana	0.083
+Maine	0.05
+Maryland	0.068
+Massachusetts	0.067
+Michigan	0.069
+Minnesota	0.044000000000000004
+Mississippi	0.064
+Missouri	0.044000000000000004
+Montana	0.049
+Nebraska	0.031000000000000007
+Nevada	0.10099999999999999
+New Hampshire	0.038
+New Jersey	0.102
+New Mexico	0.075
+New York	0.084
+North Carolina	0.06200000000000001
+North Dakota	0.045
+Ohio	0.057
+Oklahoma	0.059000000000000004
+Oregon	0.06
+Pennsylvania	0.066
+Rhode Island	0.073
+South Carolina	0.044000000000000004
+South Dakota	0.035
+Tennessee	0.053
+Texas	0.081
+Utah	0.043
+Vermont	0.031000000000000007
+Virginia	0.049
+Washington	0.06
+West Virginia	0.06200000000000001
+Wisconsin	0.05
+Wyoming	0.051

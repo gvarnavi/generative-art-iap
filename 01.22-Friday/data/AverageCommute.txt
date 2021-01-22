@@ -1,0 +1,51 @@
+State	AverageCommute
+Alabama	1434.
+Alaska	1086.
+Arizona	1488.
+Arkansas	1266.
+California	1614.
+Colorado	1452.
+Connecticut	1476.
+Delaware	1446.
+Florida	1542.
+Georgia	1620.
+Hawaii	1554.
+Idaho	1206.
+Illinois	1686.
+Indiana	1368.
+Iowa	1110.
+Kansas	1128.
+Kentucky	1350.
+Louisiana	1500.
+Maine	1368.
+Maryland	1878.
+Massachusetts	1638.
+Michigan	1422.
+Minnesota	1344.
+Mississippi	1434.
+Missouri	1392.
+Montana	1062.
+Nebraska	1074.
+Nevada	1416.
+New Hampshire	1530.
+New Jersey	1788.
+New Mexico	1302.
+New York	1878.
+North Carolina	1404.
+North Dakota	960.
+Ohio	1362.
+Oklahoma	1242.
+Oregon	1326.
+Pennsylvania	1530.
+Rhode Island	1374.
+South Carolina	1392.
+South Dakota	990.
+Tennessee	1434.
+Texas	1488.
+Utah	1272.
+Vermont	1290.
+Virginia	1626.
+Washington	1524.
+West Virginia	1524.
+Wisconsin	1278.
+Wyoming	1110.

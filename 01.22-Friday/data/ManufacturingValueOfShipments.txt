@@ -1,0 +1,51 @@
+State	ManufacturingValueOfShipments
+Alabama	1.12858843e8
+Alaska	8.20403e6
+Arizona	5.7977827e7
+Arkansas	6.0735582e7
+California	4.91372092e8
+Colorado	4.6331953e7
+Connecticut	5.8404898e7
+Delaware	2.5679939e7
+Florida	1.04832907e8
+Georgia	1.44280774e8
+Hawaii	8.799266e6
+Idaho	1.8010976e7
+Illinois	2.57760713e8
+Indiana	2.21877814e8
+Iowa	9.7592051e7
+Kansas	7.6751828e7
+Kentucky	1.19105421e8
+Louisiana	2.05054723e8
+Maine	1.6363192e7
+Maryland	4.1456097e7
+Massachusetts	8.6428959e7
+Michigan	2.34455768e8
+Minnesota	1.0756306e8
+Mississippi	5.9869456e7
+Missouri	1.10907604e8
+Montana	1.0638145e7
+Nebraska	4.0157999e7
+Nevada	1.5735787e7
+New Hampshire	1.8592406e7
+New Jersey	1.16608094e8
+New Mexico	1.7122725e7
+New York	1.62720173e8
+North Carolina	2.05867299e8
+North Dakota	1.1349799e7
+Ohio	2.9589089e8
+Oklahoma	6.0681358e7
+Oregon	6.6880653e7
+Pennsylvania	2.34840418e8
+Rhode Island	1.2061517e7
+South Carolina	9.3977455e7
+South Dakota	1.3051128e7
+Tennessee	1.4044776e8
+Texas	5.93541502e8
+Utah	4.2431657e7
+Vermont	1.0751461e7
+Virginia	9.2417797e7
+Washington	1.12053283e8
+West Virginia	2.5080573e7
+Wisconsin	1.63563195e8
+Wyoming	8.83481e6

@@ -1,0 +1,51 @@
+State	TotalVoterRegistrationRate
+Alabama	0.6796169999999999
+Alaska	0.690653
+Arizona	0.605332
+Arkansas	0.656858
+California	0.538432
+Colorado	0.682105
+Connecticut	0.6390710000000001
+Delaware	0.668086
+Florida	0.592763
+Georgia	0.641467
+Hawaii	0.49830100000000005
+Idaho	0.644896
+Illinois	0.685465
+Indiana	0.6612340000000001
+Iowa	0.692175
+Kansas	0.671171
+Kentucky	0.673069
+Louisiana	0.7064
+Maine	0.784721
+Maryland	0.6734730000000001
+Massachusetts	0.681094
+Michigan	0.712697
+Minnesota	0.7290430000000001
+Mississippi	0.78295
+Missouri	0.720619
+Montana	0.727671
+Nebraska	0.716558
+Nevada	0.6138450000000001
+New Hampshire	0.730761
+New Jersey	0.606998
+New Mexico	0.592073
+New York	0.589576
+North Carolina	0.680724
+North Dakota	0.7281399999999999
+Ohio	0.6954290000000001
+Oklahoma	0.636633
+Oregon	0.674127
+Pennsylvania	0.692264
+Rhode Island	0.6437189999999999
+South Carolina	0.689755
+South Dakota	0.692769
+Tennessee	0.642941
+Texas	0.581202
+Utah	0.666961
+Vermont	0.702316
+Virginia	0.693528
+Washington	0.698563
+West Virginia	0.63634
+Wisconsin	0.7442369999999999
+Wyoming	0.6970059999999999

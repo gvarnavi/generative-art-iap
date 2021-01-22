@@ -1,0 +1,51 @@
+State	OwnerOccupiedHousingMedianValue
+Alabama	120800.
+Alaska	235100.
+Arizona	197400.
+Arkansas	105100.
+California	421600.
+Colorado	236700.
+Connecticut	293100.
+Delaware	244100.
+Florida	188600.
+Georgia	160200.
+Hawaii	529500.
+Idaho	171300.
+Illinois	198500.
+Indiana	123300.
+Iowa	121300.
+Kansas	125500.
+Kentucky	118700.
+Louisiana	135400.
+Maine	176600.
+Maryland	319800.
+Massachusetts	343500.
+Michigan	137300.
+Minnesota	201400.
+Mississippi	99200.
+Missouri	138900.
+Montana	179900.
+Nebraska	125400.
+Nevada	225400.
+New Hampshire	250000.
+New Jersey	349100.
+New Mexico	161800.
+New York	301000.
+North Carolina	152700.
+North Dakota	118200.
+Ohio	135600.
+Oklahoma	108400.
+Oregon	252600.
+Pennsylvania	163200.
+Rhode Island	270600.
+South Carolina	137000.
+South Dakota	127000.
+Tennessee	137200.
+Texas	126400.
+Utah	221300.
+Vermont	213000.
+Virginia	254600.
+Washington	283200.
+West Virginia	96500.
+Wisconsin	169700.
+Wyoming	181900.

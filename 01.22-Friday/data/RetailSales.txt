@@ -1,0 +1,51 @@
+State	RetailSales
+Alabama	5.7344851e10
+Alaska	9.303387e9
+Arizona	8.6758801e10
+Arkansas	3.2974282e10
+California	4.5503227e11
+Colorado	6.5896788e10
+Connecticut	5.216548e10
+Delaware	1.4202083e10
+Florida	2.62341127e11
+Georgia	1.17516907e11
+Hawaii	1.7611851e10
+Idaho	2.0526631e10
+Illinois	1.6545052e11
+Indiana	7.8745589e10
+Iowa	3.9234649e10
+Kansas	3.4538332e10
+Kentucky	5.0405925e10
+Louisiana	5.6543203e10
+Maine	2.0444031e10
+Maryland	7.5664186e10
+Massachusetts	8.8082966e10
+Michigan	1.09102594e11
+Minnesota	7.1384103e10
+Mississippi	3.3751407e10
+Missouri	7.6575216e10
+Montana	1.4686854e10
+Nebraska	2.6486612e10
+Nevada	3.7433983e10
+New Hampshire	2.5353874e10
+New Jersey	1.2481358e11
+New Mexico	2.4469997e10
+New York	2.30718065e11
+North Carolina	1.14578173e11
+North Dakota	1.05273e10
+Ohio	1.38816008e11
+Oklahoma	4.3095353e10
+Oregon	5.0370919e10
+Pennsylvania	1.66842778e11
+Rhode Island	1.2286485e10
+South Carolina	5.429841e10
+South Dakota	1.2266218e10
+Tennessee	7.7547291e10
+Texas	3.11334781e11
+Utah	3.657424e10
+Vermont	9.310119e9
+Virginia	1.05663299e11
+Washington	9.2968519e10
+West Virginia	2.0538829e10
+Wisconsin	7.2283321e10
+Wyoming	8.957553e9

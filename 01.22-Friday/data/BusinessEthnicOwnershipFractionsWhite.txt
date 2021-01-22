@@ -1,0 +1,51 @@
+State	BusinessEthnicOwnershipFractionsWhite
+Alabama	0.813
+Alaska	0.851
+Arizona	0.821
+Arkansas	0.8960000000000001
+California	0.63
+Colorado	0.886
+Connecticut	0.876
+Delaware	0.8520000000000001
+Florida	0.648
+Georgia	0.701
+Hawaii	0.375
+Idaho	0.9550000000000001
+Illinois	0.7960000000000002
+Indiana	0.913
+Iowa	0.969
+Kansas	0.9230000000000002
+Kentucky	0.939
+Louisiana	0.777
+Maine	0.976
+Maryland	0.6830000000000002
+Massachusetts	0.8840000000000001
+Michigan	0.8640000000000001
+Minnesota	0.9359999999999999
+Mississippi	0.7909999999999999
+Missouri	0.913
+Montana	0.9620000000000001
+Nebraska	0.9450000000000001
+Nevada	0.79
+New Hampshire	0.965
+New Jersey	0.7440000000000001
+New Mexico	0.677
+New York	0.688
+North Carolina	0.8320000000000001
+North Dakota	0.969
+Ohio	0.908
+Oklahoma	0.863
+Oregon	0.905
+Pennsylvania	0.8960000000000001
+Rhode Island	0.882
+South Carolina	0.838
+South Dakota	0.961
+Tennessee	0.8740000000000001
+Texas	0.659
+Utah	0.93
+Vermont	0.981
+Virginia	0.78
+Washington	0.886
+West Virginia	0.98
+Wisconsin	0.9390000000000001
+Wyoming	0.9550000000000001

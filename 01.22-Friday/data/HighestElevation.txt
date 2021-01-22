@@ -1,0 +1,51 @@
+State	HighestElevation
+Alabama	733.
+Alaska	6198.
+Arizona	3850.
+Arkansas	840.
+California	4421.
+Colorado	4401.
+Connecticut	726.
+Delaware	137.
+Florida	105.
+Georgia	1459.
+Hawaii	4208.
+Idaho	3861.
+Illinois	377.
+Indiana	383.
+Iowa	509.
+Kansas	1232.
+Kentucky	1263.
+Louisiana	163.
+Maine	1606.
+Maryland	1025.
+Massachusetts	1064.
+Michigan	604.
+Minnesota	702.
+Mississippi	246.
+Missouri	540.
+Montana	3904.
+Nebraska	1654.
+Nevada	4007.
+New Hampshire	1918.
+New Jersey	550.
+New Mexico	4014.
+New York	1630.
+North Carolina	2039.
+North Dakota	1069.
+Ohio	472.
+Oklahoma	1517.
+Oregon	3428.
+Pennsylvania	980.
+Rhode Island	248.
+South Carolina	1086.
+South Dakota	2209.
+Tennessee	2026.
+Texas	2668.
+Utah	4123.
+Vermont	1340.
+Virginia	1747.
+Washington	4395.
+West Virginia	1483.
+Wisconsin	595.
+Wyoming	4210.

@@ -1,0 +1,51 @@
+State	Employment
+Alabama	2.618073e6
+Alaska	445031.
+Arizona	3.520657e6
+Arkansas	1.606087e6
+California	2.1245509e7
+Colorado	3.215903e6
+Connecticut	2.235248e6
+Delaware	548130.
+Florida	1.0679883e7
+Georgia	5.559982e6
+Hawaii	873157.
+Idaho	947483.
+Illinois	7.608799e6
+Indiana	3.727784e6
+Iowa	2.034878e6
+Kansas	1.855548e6
+Kentucky	2.438265e6
+Louisiana	2.517085e6
+Maine	830221.
+Maryland	3.437502e6
+Massachusetts	4.198813e6
+Michigan	5.454613e6
+Minnesota	3.562386e6
+Mississippi	1.568063e6
+Missouri	3.663291e6
+Montana	647427.
+Nebraska	1.245362e6
+Nevada	1.666531e6
+New Hampshire	848016.
+New Jersey	5.128341e6
+New Mexico	1.115677e6
+New York	1.1039874e7
+North Carolina	5.460841e6
+North Dakota	487337.
+Ohio	6.829647e6
+Oklahoma	2.15954e6
+Oregon	2.320043e6
+Pennsylvania	7.304947e6
+Rhode Island	615347.
+South Carolina	2.507978e6
+South Dakota	564481.
+Tennessee	3.74601e6
+Texas	1.4157309e7
+Utah	1.673907e6
+Vermont	427422.
+Virginia	4.936137e6
+Washington	3.948743e6
+West Virginia	921898.
+Wisconsin	3.595084e6
+Wyoming	389776.

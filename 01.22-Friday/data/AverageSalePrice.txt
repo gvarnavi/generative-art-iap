@@ -1,0 +1,51 @@
+State	AverageSalePrice
+Alabama	153099.
+Alaska	263931.
+Arizona	182553.
+Arkansas	139124.
+California	391609.
+Colorado	267924.
+Connecticut	341436.
+Delaware	247793.
+Florida	183843.
+Georgia	159657.
+Hawaii	587760.
+Idaho	164999.
+Illinois	186308.
+Indiana	132068.
+Iowa	139543.
+Kansas	135301.
+Kentucky	150614.
+Louisiana	171584.
+Maine	209697.
+Maryland	292254.
+Massachusetts	373062.
+Michigan	116143.
+Minnesota	194336.
+Mississippi	140317.
+Missouri	147162.
+Montana	206439.
+Nebraska	139325.
+Nevada	179627.
+New Hampshire	254399.
+New Jersey	325722.
+New Mexico	188610.
+New York	299812.
+North Carolina	191255.
+North Dakota	147844.
+Ohio	132093.
+Oklahoma	137614.
+Oregon	234853.
+Pennsylvania	178266.
+Rhode Island	269788.
+South Carolina	171514.
+South Dakota	175849.
+Tennessee	158176.
+Texas	160510.
+Utah	226030.
+Vermont	236773.
+Virginia	268338.
+Washington	284782.
+West Virginia	150706.
+Wisconsin	177864.
+Wyoming	211127.
