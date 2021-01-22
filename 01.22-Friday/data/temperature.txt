@@ -1,0 +1,51 @@
+Average Winter Temperature (F)
+Alabama	46.5
+Alaska	2.6
+Arizona	43.6
+Arkansas	41.5
+California	46.2
+Colorado	25.8
+Connecticut	28.5
+Delaware	36.1
+Florida	59.4
+Georgia	47.8
+Hawaii	67.4
+Idaho	25.4
+Illinois	28.3
+Indiana	29.4
+Iowa	21.7
+Kansas	31.9
+Kentucky	35.9
+Louisiana	50.9
+Maine	16.8
+Maryland	34.7
+Massachusetts	27.4
+Michigan	21.7
+Minnesota	12.4
+Mississippi	46.7
+Missouri	32.3
+Montana	21.2
+Nebraska	25.7
+Nevada	32.2
+New Hampshire	21.1
+New Jersey	33.0
+New Mexico	36.1
+New York	23.3
+North Carolina	42.1
+North Dakota	12.2
+Ohio	29.5
+Oklahoma	39.1
+Oregon	34.0
+Pennsylvania	28.4
+Rhode Island	31.4
+South Carolina	46.1
+South Dakota	19.5
+Tennessee	39.1
+Texas	47.9
+Utah	28.2
+Vermont	19.4
+Virginia	36.8
+Washington	33.0
+West Virginia	32.8
+Wisconsin	17.2
+Wyoming	21.2

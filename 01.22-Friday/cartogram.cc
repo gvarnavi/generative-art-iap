@@ -2,7 +2,6 @@
 #include <cstdlib>
 #include <cmath>
 #include <cstring>
-#include <stdint.h>
 
 #ifdef _OPENMP
 #include "omp.h"
@@ -165,13 +164,13 @@ int main(int argc,char **argv) {
 	char buf[128];
 
 	// Read in labels from binary file.
-	sprintf(buf,"%s.bin",argv[1]);
+	sprintf(buf,"maps/%s.bin",argv[1]);
 	FILE *fp=open_file(buf,"rb");
 	read_file(l,sizeof(uint8_t),mn,fp);
 	fclose(fp);
 
 	// Read in feature values from binary file.
-	sprintf(buf,"%s.bin",argv[2]);
+	sprintf(buf,"data/%s.bin",argv[2]);
 	fp=open_file(buf,"rb");
 	read_file(rh,sizeof(double),N,fp);
 	fclose(fp);
@@ -218,7 +217,7 @@ int main(int argc,char **argv) {
 	}
 
 	// Write resulting fields to file.
-	sprintf(buf,"%s_fields.bin",argv[2]);
+	sprintf(buf,"out/%s_fields.bin",argv[2]);
 	fp=open_file(buf,"wb");
 	fwrite(u,sizeof(double),3*mn,fp);
 	fclose(fp);

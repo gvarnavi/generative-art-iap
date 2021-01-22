@@ -1,0 +1,51 @@
+Net worth of wealthiest person by state (millions)
+Alabama			900
+Alaska			300
+Arizona			5600
+Arkansas		51100
+California		71000
+Colorado		12000
+Connecticut		18400
+Delaware		885
+Florida			18800
+Georgia			9200
+Hawaii			13500
+Idaho			3500
+Illinois		11700
+Indiana			9500
+Iowa			3800
+Kansas			42000
+Kentucky		5300
+Louisiana		2900
+Maine			1700
+Maryland		5100
+Massachusetts	14700
+Michigan		6800
+Minnesota		2900
+Mississippi		1350
+Missouri		6900
+Montana			6200
+Nebraska		85000
+Nevada			35700
+New Hampshire	720
+New Jersey		6100
+New Mexico		700
+New York		53800
+North Carolina	9100
+North Dakota	1000
+Ohio			4700
+Oklahoma		11800
+Oregon			35000
+Pennsylvania	7000
+Rhode Island	1800
+South Carolina	1800
+South Dakota	2500
+Tennessee		11700
+Texas			50100
+Utah			1500
+Vermont			640
+Virginia		28100
+Washington		157000
+West Virginia	1500
+Wisconsin		11400
+Wyoming			28100
