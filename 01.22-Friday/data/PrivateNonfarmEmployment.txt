@@ -1,4 +1,4 @@
-State	PrivateNonfarmEmployment
+State	PrivateNonfarmEmployment (People)
 Alabama	1.612258e6
 Alaska	252882.
 Arizona	2.122265e6

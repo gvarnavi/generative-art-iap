@@ -1,4 +1,4 @@
-State	Employment
+State	Employment (People)
 Alabama	2.618073e6
 Alaska	445031.
 Arizona	3.520657e6

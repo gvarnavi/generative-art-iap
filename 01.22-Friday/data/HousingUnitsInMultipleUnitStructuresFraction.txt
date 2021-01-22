@@ -1,51 +1,51 @@
-State	HousingUnitsInMultipleUnitStructuresFraction
-Alabama	0.155
-Alaska	0.244
-Arizona	0.20600000000000002
-Arkansas	0.152
-California	0.308
-Colorado	0.257
-Connecticut	0.34600000000000003
-Delaware	0.17500000000000002
-Florida	0.299
-Georgia	0.20500000000000002
-Hawaii	0.389
-Idaho	0.151
-Illinois	0.329
-Indiana	0.185
-Iowa	0.185
-Kansas	0.17600000000000002
-Kentucky	0.17800000000000002
-Louisiana	0.18100000000000002
-Maine	0.193
-Maryland	0.254
-Massachusetts	0.418
-Michigan	0.18100000000000002
-Minnesota	0.21600000000000003
-Mississippi	0.134
-Missouri	0.196
-Montana	0.163
-Nebraska	0.195
-Nevada	0.29600000000000004
-New Hampshire	0.254
-New Jersey	0.359
-New Mexico	0.15
-New York	0.505
-North Carolina	0.17
-North Dakota	0.258
-Ohio	0.22899999999999998
-Oklahoma	0.152
-Oregon	0.233
-Pennsylvania	0.20500000000000002
-Rhode Island	0.406
-South Carolina	0.17600000000000002
-South Dakota	0.185
-Tennessee	0.18100000000000002
-Texas	0.24
-Utah	0.21300000000000002
-Vermont	0.23
-Virginia	0.214
-Washington	0.257
-West Virginia	0.12
-Wisconsin	0.254
-Wyoming	0.157
+State	HousingUnitsInMultipleUnitStructuresFraction (Percent)
+Alabama	15.5
+Alaska	24.4
+Arizona	20.6
+Arkansas	15.2
+California	30.8
+Colorado	25.7
+Connecticut	34.6
+Delaware	17.5
+Florida	29.9
+Georgia	20.5
+Hawaii	38.9
+Idaho	15.1
+Illinois	32.9
+Indiana	18.5
+Iowa	18.5
+Kansas	17.6
+Kentucky	17.8
+Louisiana	18.1
+Maine	19.3
+Maryland	25.4
+Massachusetts	41.8
+Michigan	18.1
+Minnesota	21.6
+Mississippi	13.4
+Missouri	19.6
+Montana	16.3
+Nebraska	19.5
+Nevada	29.600000000000005
+New Hampshire	25.4
+New Jersey	35.9
+New Mexico	15.
+New York	50.5
+North Carolina	17.
+North Dakota	25.8
+Ohio	22.9
+Oklahoma	15.2
+Oregon	23.3
+Pennsylvania	20.5
+Rhode Island	40.6
+South Carolina	17.6
+South Dakota	18.5
+Tennessee	18.1
+Texas	24.
+Utah	21.3
+Vermont	23.
+Virginia	21.4
+Washington	25.7
+West Virginia	12.
+Wisconsin	25.4
+Wyoming	15.7

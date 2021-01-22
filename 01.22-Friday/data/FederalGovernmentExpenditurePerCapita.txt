@@ -1,4 +1,4 @@
-State	FederalGovernmentExpenditurePerCapita
+State	FederalGovernmentExpenditurePerCapita (USDollars)
 Alabama	11.903015646754906
 Alaska	17.06915084763477
 Arizona	9.542923821875146

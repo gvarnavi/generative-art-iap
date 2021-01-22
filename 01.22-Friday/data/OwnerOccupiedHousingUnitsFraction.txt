@@ -1,51 +1,51 @@
-State	OwnerOccupiedHousingUnitsFraction
-Alabama	0.7070000000000001
-Alaska	0.643
-Arizona	0.6659999999999999
-Arkansas	0.675
-California	0.5670000000000001
-Colorado	0.668
-Connecticut	0.6890000000000001
-Delaware	0.73
-Florida	0.6900000000000001
-Georgia	0.668
-Hawaii	0.5870000000000001
-Idaho	0.706
-Illinois	0.687
-Indiana	0.711
-Iowa	0.73
-Kansas	0.6900000000000001
-Kentucky	0.6950000000000001
-Louisiana	0.679
-Maine	0.7270000000000001
-Maryland	0.687
-Massachusetts	0.636
-Michigan	0.735
-Minnesota	0.736
-Mississippi	0.706
-Missouri	0.6950000000000001
-Montana	0.6890000000000001
-Nebraska	0.6829999999999999
-Nevada	0.5910000000000001
-New Hampshire	0.725
-New Jersey	0.6659999999999999
-New Mexico	0.696
-New York	0.5479999999999999
-North Carolina	0.6779999999999999
-North Dakota	0.665
-Ohio	0.687
-Oklahoma	0.6779999999999999
-Oregon	0.631
-Pennsylvania	0.706
-Rhode Island	0.621
-South Carolina	0.698
-South Dakota	0.687
-Tennessee	0.6900000000000001
-Texas	0.645
-Utah	0.7070000000000001
-Vermont	0.7140000000000001
-Virginia	0.684
-Washington	0.644
-West Virginia	0.743
-Wisconsin	0.691
-Wyoming	0.705
+State	OwnerOccupiedHousingUnitsFraction (Percent)
+Alabama	70.7
+Alaska	64.3
+Arizona	66.6
+Arkansas	67.5
+California	56.7
+Colorado	66.8
+Connecticut	68.9
+Delaware	73.
+Florida	69.
+Georgia	66.8
+Hawaii	58.70000000000001
+Idaho	70.6
+Illinois	68.7
+Indiana	71.1
+Iowa	73.
+Kansas	69.
+Kentucky	69.5
+Louisiana	67.9
+Maine	72.7
+Maryland	68.7
+Massachusetts	63.6
+Michigan	73.5
+Minnesota	73.6
+Mississippi	70.6
+Missouri	69.5
+Montana	68.9
+Nebraska	68.3
+Nevada	59.10000000000001
+New Hampshire	72.5
+New Jersey	66.6
+New Mexico	69.6
+New York	54.79999999999999
+North Carolina	67.8
+North Dakota	66.5
+Ohio	68.7
+Oklahoma	67.8
+Oregon	63.1
+Pennsylvania	70.6
+Rhode Island	62.1
+South Carolina	69.8
+South Dakota	68.7
+Tennessee	69.
+Texas	64.5
+Utah	70.7
+Vermont	71.4
+Virginia	68.4
+Washington	64.4
+West Virginia	74.3
+Wisconsin	69.1
+Wyoming	70.5

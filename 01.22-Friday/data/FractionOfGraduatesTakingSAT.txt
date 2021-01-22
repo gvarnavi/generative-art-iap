@@ -1,51 +1,51 @@
-State	FractionOfGraduatesTakingSAT
-Alabama	0.061
-Alaska	0.519
-Arizona	0.34299999999999997
-Arkansas	0.040999999999999995
-California	0.604
-Colorado	0.12300000000000001
-Connecticut	0.893
-Delaware	1.
-Florida	0.743
-Georgia	0.7690000000000001
-Hawaii	0.614
-Idaho	0.9990000000000001
-Illinois	0.04
-Indiana	0.7090000000000001
-Iowa	0.028999999999999998
-Kansas	0.048
-Kentucky	0.04
-Louisiana	0.046
-Maine	0.9590000000000001
-Maryland	0.787
-Massachusetts	0.8620000000000002
-Michigan	0.035
-Minnesota	0.054000000000000006
-Mississippi	0.031000000000000007
-Missouri	0.037000000000000005
-Montana	0.15
-Nebraska	0.035
-Nevada	0.498
-New Hampshire	0.698
-New Jersey	0.8140000000000001
-New Mexico	0.121
-New York	0.7490000000000001
-North Carolina	0.632
-North Dakota	0.019
-Ohio	0.13699999999999998
-Oklahoma	0.044000000000000004
-Oregon	0.466
-Pennsylvania	0.706
-Rhode Island	0.768
-South Carolina	0.654
-South Dakota	0.027999999999999997
-Tennessee	0.07
-Texas	0.643
-Utah	0.045
-Vermont	0.613
-Virginia	0.7220000000000001
-Washington	0.662
-West Virginia	0.147
-Wisconsin	0.036000000000000004
-Wyoming	0.033
+State	FractionOfGraduatesTakingSAT (Percent)
+Alabama	6.1
+Alaska	51.9
+Arizona	34.3
+Arkansas	4.1
+California	60.4
+Colorado	12.3
+Connecticut	89.3
+Delaware	100.
+Florida	74.3
+Georgia	76.9
+Hawaii	61.4
+Idaho	99.9
+Illinois	4.
+Indiana	70.9
+Iowa	2.9
+Kansas	4.8
+Kentucky	4.
+Louisiana	4.6
+Maine	95.9
+Maryland	78.7
+Massachusetts	86.20000000000002
+Michigan	3.5000000000000004
+Minnesota	5.4
+Mississippi	3.1000000000000005
+Missouri	3.7000000000000006
+Montana	15.
+Nebraska	3.5000000000000004
+Nevada	49.8
+New Hampshire	69.8
+New Jersey	81.4
+New Mexico	12.1
+New York	74.9
+North Carolina	63.2
+North Dakota	1.9
+Ohio	13.699999999999998
+Oklahoma	4.4
+Oregon	46.6
+Pennsylvania	70.6
+Rhode Island	76.8
+South Carolina	65.4
+South Dakota	2.8
+Tennessee	7.000000000000001
+Texas	64.3
+Utah	4.5
+Vermont	61.3
+Virginia	72.2
+Washington	66.2
+West Virginia	14.7
+Wisconsin	3.6000000000000005
+Wyoming	3.3000000000000003

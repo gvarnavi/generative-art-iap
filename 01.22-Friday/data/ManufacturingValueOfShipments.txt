@@ -1,4 +1,4 @@
-State	ManufacturingValueOfShipments
+State	ManufacturingValueOfShipments (USDollars)
 Alabama	1.12858843e8
 Alaska	8.20403e6
 Arizona	5.7977827e7

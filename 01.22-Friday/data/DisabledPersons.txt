@@ -1,4 +1,4 @@
-State	DisabledPersons
+State	DisabledPersons (People)
 Alabama	945705.
 Alaska	83220.
 Arizona	902252.

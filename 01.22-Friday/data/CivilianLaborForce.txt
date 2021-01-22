@@ -1,4 +1,4 @@
-State	CivilianLaborForce
+State	CivilianLaborForce (People)
 Alabama	2.266845e6
 Alaska	356191.
 Arizona	3.582721e6

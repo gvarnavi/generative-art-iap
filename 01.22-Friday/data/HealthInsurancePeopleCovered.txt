@@ -1,4 +1,4 @@
-State	HealthInsurancePeopleCovered
+State	HealthInsurancePeopleCovered (People)
 Alabama	4.1052039999999995e6
 Alaska	570309.
 Arizona	5.445836e6

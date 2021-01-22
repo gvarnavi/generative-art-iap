@@ -1,51 +1,51 @@
-State	TotalVoterRegistrationRate
-Alabama	0.6796169999999999
-Alaska	0.690653
-Arizona	0.605332
-Arkansas	0.656858
-California	0.538432
-Colorado	0.682105
-Connecticut	0.6390710000000001
-Delaware	0.668086
-Florida	0.592763
-Georgia	0.641467
-Hawaii	0.49830100000000005
-Idaho	0.644896
-Illinois	0.685465
-Indiana	0.6612340000000001
-Iowa	0.692175
-Kansas	0.671171
-Kentucky	0.673069
-Louisiana	0.7064
-Maine	0.784721
-Maryland	0.6734730000000001
-Massachusetts	0.681094
-Michigan	0.712697
-Minnesota	0.7290430000000001
-Mississippi	0.78295
-Missouri	0.720619
-Montana	0.727671
-Nebraska	0.716558
-Nevada	0.6138450000000001
-New Hampshire	0.730761
-New Jersey	0.606998
-New Mexico	0.592073
-New York	0.589576
-North Carolina	0.680724
-North Dakota	0.7281399999999999
-Ohio	0.6954290000000001
-Oklahoma	0.636633
-Oregon	0.674127
-Pennsylvania	0.692264
-Rhode Island	0.6437189999999999
-South Carolina	0.689755
-South Dakota	0.692769
-Tennessee	0.642941
-Texas	0.581202
-Utah	0.666961
-Vermont	0.702316
-Virginia	0.693528
-Washington	0.698563
-West Virginia	0.63634
-Wisconsin	0.7442369999999999
-Wyoming	0.6970059999999999
+State	TotalVoterRegistrationRate (Percent)
+Alabama	67.9617
+Alaska	69.0653
+Arizona	60.5332
+Arkansas	65.6858
+California	53.8432
+Colorado	68.2105
+Connecticut	63.90710000000001
+Delaware	66.8086
+Florida	59.276300000000006
+Georgia	64.1467
+Hawaii	49.8301
+Idaho	64.4896
+Illinois	68.5465
+Indiana	66.1234
+Iowa	69.2175
+Kansas	67.1171
+Kentucky	67.3069
+Louisiana	70.64
+Maine	78.4721
+Maryland	67.3473
+Massachusetts	68.1094
+Michigan	71.2697
+Minnesota	72.9043
+Mississippi	78.295
+Missouri	72.0619
+Montana	72.7671
+Nebraska	71.6558
+Nevada	61.38450000000001
+New Hampshire	73.0761
+New Jersey	60.6998
+New Mexico	59.2073
+New York	58.9576
+North Carolina	68.0724
+North Dakota	72.814
+Ohio	69.5429
+Oklahoma	63.6633
+Oregon	67.4127
+Pennsylvania	69.2264
+Rhode Island	64.3719
+South Carolina	68.9755
+South Dakota	69.2769
+Tennessee	64.2941
+Texas	58.1202
+Utah	66.6961
+Vermont	70.2316
+Virginia	69.3528
+Washington	69.8563
+West Virginia	63.634
+Wisconsin	74.4237
+Wyoming	69.7006

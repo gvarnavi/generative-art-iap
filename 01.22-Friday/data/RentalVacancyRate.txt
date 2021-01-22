@@ -1,51 +1,51 @@
-State	RentalVacancyRate
-Alabama	0.126
-Alaska	0.075
-Arizona	0.057999999999999996
-Arkansas	0.096
-California	0.042
-Colorado	0.040999999999999995
-Connecticut	0.055999999999999994
-Delaware	0.063
-Florida	0.084
-Georgia	0.076
-Hawaii	0.07400000000000001
-Idaho	0.045
-Illinois	0.075
-Indiana	0.067
-Iowa	0.067
-Kansas	0.11800000000000001
-Kentucky	0.085
-Louisiana	0.107
-Maine	0.040999999999999995
-Maryland	0.081
-Massachusetts	0.036000000000000004
-Michigan	0.068
-Minnesota	0.05
-Mississippi	0.087
-Missouri	0.09300000000000001
-Montana	0.05
-Nebraska	0.065
-Nevada	0.057999999999999996
-New Hampshire	0.04
-New Jersey	0.042
-New Mexico	0.071
-New York	0.052000000000000005
-North Carolina	0.067
-North Dakota	0.11599999999999999
-Ohio	0.064
-Oklahoma	0.1
-Oregon	0.051
-Pennsylvania	0.07200000000000001
-Rhode Island	0.039
-South Carolina	0.10800000000000001
-South Dakota	0.095
-Tennessee	0.10099999999999999
-Texas	0.095
-Utah	0.038
-Vermont	0.044000000000000004
-Virginia	0.07
-Washington	0.040999999999999995
-West Virginia	0.057999999999999996
-Wisconsin	0.048
-Wyoming	0.081
+State	RentalVacancyRate (Percent)
+Alabama	12.6
+Alaska	7.5
+Arizona	5.8
+Arkansas	9.6
+California	4.2
+Colorado	4.1
+Connecticut	5.6
+Delaware	6.3
+Florida	8.4
+Georgia	7.6
+Hawaii	7.400000000000001
+Idaho	4.5
+Illinois	7.5
+Indiana	6.7
+Iowa	6.7
+Kansas	11.8
+Kentucky	8.5
+Louisiana	10.7
+Maine	4.1
+Maryland	8.1
+Massachusetts	3.6000000000000005
+Michigan	6.800000000000001
+Minnesota	5.
+Mississippi	8.7
+Missouri	9.3
+Montana	5.
+Nebraska	6.5
+Nevada	5.8
+New Hampshire	4.
+New Jersey	4.2
+New Mexico	7.1
+New York	5.2
+North Carolina	6.7
+North Dakota	11.6
+Ohio	6.4
+Oklahoma	10.
+Oregon	5.1
+Pennsylvania	7.200000000000001
+Rhode Island	3.9
+South Carolina	10.8
+South Dakota	9.5
+Tennessee	10.1
+Texas	9.5
+Utah	3.8
+Vermont	4.4
+Virginia	7.000000000000001
+Washington	4.1
+West Virginia	5.8
+Wisconsin	4.8
+Wyoming	8.1

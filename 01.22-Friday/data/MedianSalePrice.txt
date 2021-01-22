@@ -1,4 +1,4 @@
-State	MedianSalePrice
+State	MedianSalePrice (USDollars)
 Alabama	128969.
 Alaska	241750.
 Arizona	147669.

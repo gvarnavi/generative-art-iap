@@ -1,4 +1,4 @@
-State	UnweightedSamplePopulation
+State	UnweightedSamplePopulation (People)
 Alabama	392201.
 Alaska	98693.
 Arizona	499196.

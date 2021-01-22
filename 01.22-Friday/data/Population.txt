@@ -1,4 +1,4 @@
-State	Population
+State	Population (People)
 Alabama	4.849377e6
 Alaska	736732.
 Arizona	6.731484e6

@@ -1,4 +1,4 @@
-State	GovernmentEmployment
+State	GovernmentEmployment (People)
 Alabama	409942.
 Alaska	104824.
 Arizona	448567.

@@ -1,4 +1,4 @@
-State	NewPrivateHousingUnitsValue
+State	NewPrivateHousingUnitsValue (USDollars)
 Alabama	2.143551e9
 Alaska	2.09152e8
 Arizona	4.483012e9

@@ -1,4 +1,4 @@
-State	PopulationByEducationalAttainment
+State	PopulationByEducationalAttainment (People)
 Alabama	3.276637e6
 Alaska	475442.
 Arizona	4.516175e6

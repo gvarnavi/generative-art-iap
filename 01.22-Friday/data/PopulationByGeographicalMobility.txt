@@ -1,4 +1,4 @@
-State	PopulationByGeographicalMobility
+State	PopulationByGeographicalMobility (People)
 Alabama	4.795681e6
 Alaska	728411.
 Arizona	6.729145e6

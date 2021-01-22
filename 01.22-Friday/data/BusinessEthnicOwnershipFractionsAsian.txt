@@ -1,51 +1,51 @@
-State	BusinessEthnicOwnershipFractionsAsian
-Alabama	0.018000000000000002
-Alaska	0.031000000000000007
-Arizona	0.033
-Arkansas	0.013999999999999999
-California	0.149
-Colorado	0.026000000000000002
-Connecticut	0.033
-Delaware	0.04
-Florida	0.032
-Georgia	0.051
-Hawaii	0.47200000000000003
-Idaho	0.008
-Illinois	0.053
-Indiana	0.018000000000000002
-Iowa	0.011000000000000001
-Kansas	0.02
-Kentucky	0.016
-Louisiana	0.027999999999999997
-Maine	0.006999999999999999
-Maryland	0.068
-Massachusetts	0.045
-Michigan	0.026000000000000002
-Minnesota	0.023
-Mississippi	0.018000000000000002
-Missouri	0.019
-Montana	0.006
-Nebraska	0.013999999999999999
-Nevada	0.079
-New Hampshire	0.016
-New Jersey	0.087
-New Mexico	0.021
-New York	0.10099999999999999
-North Carolina	0.025
-North Dakota	0.006999999999999999
-Ohio	0.02
-Oklahoma	0.02
-Oregon	0.036000000000000004
-Pennsylvania	0.032
-Rhode Island	0.021
-South Carolina	0.018000000000000002
-South Dakota	0.006
-Tennessee	0.02
-Texas	0.053
-Utah	0.019
-Vermont	0.008
-Virginia	0.07
-Washington	0.068
-West Virginia	0.013000000000000001
-Wisconsin	0.016
-Wyoming	0.006999999999999999
+State	BusinessEthnicOwnershipFractionsAsian (Percent)
+Alabama	1.8000000000000003
+Alaska	3.1000000000000005
+Arizona	3.3000000000000003
+Arkansas	1.4
+California	14.899999999999999
+Colorado	2.6
+Connecticut	3.3000000000000003
+Delaware	4.
+Florida	3.2
+Georgia	5.1
+Hawaii	47.2
+Idaho	0.8
+Illinois	5.3
+Indiana	1.8000000000000003
+Iowa	1.1
+Kansas	2.
+Kentucky	1.6
+Louisiana	2.8
+Maine	0.7
+Maryland	6.800000000000001
+Massachusetts	4.5
+Michigan	2.6
+Minnesota	2.3
+Mississippi	1.8000000000000003
+Missouri	1.9
+Montana	0.6
+Nebraska	1.4
+Nevada	7.9
+New Hampshire	1.6
+New Jersey	8.7
+New Mexico	2.1
+New York	10.1
+North Carolina	2.5
+North Dakota	0.7
+Ohio	2.
+Oklahoma	2.
+Oregon	3.6000000000000005
+Pennsylvania	3.2
+Rhode Island	2.1
+South Carolina	1.8000000000000003
+South Dakota	0.6
+Tennessee	2.
+Texas	5.3
+Utah	1.9
+Vermont	0.8
+Virginia	7.000000000000001
+Washington	6.800000000000001
+West Virginia	1.3
+Wisconsin	1.6
+Wyoming	0.7

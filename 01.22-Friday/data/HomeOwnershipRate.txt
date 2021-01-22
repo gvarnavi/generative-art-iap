@@ -1,51 +1,51 @@
-State	HomeOwnershipRate
-Alabama	0.7070000000000001
-Alaska	0.626
-Arizona	0.658
-Arkansas	0.653
-California	0.5479999999999999
-Colorado	0.647
-Connecticut	0.643
-Delaware	0.731
-Florida	0.66
-Georgia	0.644
-Hawaii	0.6
-Idaho	0.706
-Illinois	0.6509999999999999
-Indiana	0.6950000000000001
-Iowa	0.6950000000000001
-Kansas	0.6920000000000001
-Kentucky	0.6950000000000001
-Louisiana	0.6559999999999999
-Maine	0.738
-Maryland	0.688
-Massachusetts	0.613
-Michigan	0.73
-Minnesota	0.7140000000000001
-Mississippi	0.7270000000000001
-Missouri	0.691
-Montana	0.687
-Nebraska	0.682
-Nevada	0.5820000000000001
-New Hampshire	0.75
-New Jersey	0.65
-New Mexico	0.674
-New York	0.52
-North Carolina	0.6509999999999999
-North Dakota	0.614
-Ohio	0.682
-Oklahoma	0.688
-Oregon	0.624
-Pennsylvania	0.6920000000000001
-Rhode Island	0.638
-South Carolina	0.726
-South Dakota	0.6950000000000001
-Tennessee	0.688
-Texas	0.624
-Utah	0.7190000000000001
-Vermont	0.7090000000000001
-Virginia	0.6759999999999999
-Washington	0.638
-West Virginia	0.756
-Wisconsin	0.6609999999999999
-Wyoming	0.713
+State	HomeOwnershipRate (Percent)
+Alabama	70.7
+Alaska	62.6
+Arizona	65.8
+Arkansas	65.3
+California	54.79999999999999
+Colorado	64.7
+Connecticut	64.3
+Delaware	73.1
+Florida	66.
+Georgia	64.4
+Hawaii	60.
+Idaho	70.6
+Illinois	65.1
+Indiana	69.5
+Iowa	69.5
+Kansas	69.2
+Kentucky	69.5
+Louisiana	65.6
+Maine	73.8
+Maryland	68.8
+Massachusetts	61.3
+Michigan	73.
+Minnesota	71.4
+Mississippi	72.7
+Missouri	69.1
+Montana	68.7
+Nebraska	68.2
+Nevada	58.20000000000001
+New Hampshire	75.
+New Jersey	65.
+New Mexico	67.4
+New York	52.
+North Carolina	65.1
+North Dakota	61.4
+Ohio	68.2
+Oklahoma	68.8
+Oregon	62.4
+Pennsylvania	69.2
+Rhode Island	63.800000000000004
+South Carolina	72.6
+South Dakota	69.5
+Tennessee	68.8
+Texas	62.4
+Utah	71.9
+Vermont	70.9
+Virginia	67.6
+Washington	63.800000000000004
+West Virginia	75.6
+Wisconsin	66.1
+Wyoming	71.3

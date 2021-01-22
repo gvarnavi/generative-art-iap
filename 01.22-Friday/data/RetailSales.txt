@@ -1,4 +1,4 @@
-State	RetailSales
+State	RetailSales (USDollars)
 Alabama	5.7344851e10
 Alaska	9.303387e9
 Arizona	8.6758801e10

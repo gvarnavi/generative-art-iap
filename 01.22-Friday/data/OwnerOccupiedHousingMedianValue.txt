@@ -1,4 +1,4 @@
-State	OwnerOccupiedHousingMedianValue
+State	OwnerOccupiedHousingMedianValue (USDollars)
 Alabama	120800.
 Alaska	235100.
 Arizona	197400.

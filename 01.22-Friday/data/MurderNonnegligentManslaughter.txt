@@ -1,51 +1,51 @@
-State	MurderNonnegligentManslaughter
-Alabama	0.000012810755961440893
-Alaska	1.9660071029934045e-6
-Arizona	0.000013191273465246068
-Arkansas	8.181126331811264e-6
-California	0.000058028919330289196
-Colorado	7.007864028411974e-6
-Connecticut	3.2343987823439876e-6
-Delaware	1.7123287671232877e-6
-Florida	0.00003351725012683917
-Georgia	0.000022291983764586504
-Hawaii	1.2366818873668188e-6
-Idaho	1.0147133434804667e-6
-Illinois	0.000031614662607813296
-Indiana	0.00001258878741755454
-Iowa	3.297818366311517e-6
-Kansas	5.073566717402334e-6
-Kentucky	8.339675291730086e-6
-Louisiana	0.00001845509893455099
-Maine	7.293252156265855e-7
-Maryland	0.000017313546423135463
-Massachusetts	5.485794013191274e-6
-Michigan	0.00001804287163876205
-Minnesota	3.5832064941653983e-6
-Mississippi	7.768899036022324e-6
-Missouri	0.000019025875190258754
-Montana	1.300101471334348e-6
-Nebraska	1.3635210553018772e-6
-Nevada	8.688483003551497e-6
-New Hampshire	4.4393708777270423e-7
-New Jersey	0.000010273972602739726
-New Mexico	4.6930492135971586e-6
-New York	0.000017376966007102995
-North Carolina	0.00001874048706240487
-North Dakota	3.170979198376459e-7
-Ohio	0.000022513952308472855
-Oklahoma	7.67376966007103e-6
-Oregon	3.297818366311517e-6
-Pennsylvania	0.00002343353627600203
-Rhode Island	6.341958396752918e-7
-South Carolina	0.000012366818873668189
-South Dakota	7.927447995941147e-7
-Tennessee	0.000016711060375443936
-Texas	0.0000447742262810756
-Utah	2.3148148148148148e-6
-Vermont	4.4393708777270423e-7
-Virginia	0.000014364535768645357
-Washington	7.293252156265855e-6
-West Virginia	2.69533231861999e-6
-Wisconsin	5.898021308980213e-6
-Wyoming	4.756468797564688e-7
+State	MurderNonnegligentManslaughter (crimes per Years)
+Alabama	404.
+Alaska	62.
+Arizona	416.
+Arkansas	258.
+California	1830.
+Colorado	221.
+Connecticut	102.
+Delaware	54.
+Florida	1057.
+Georgia	703.
+Hawaii	39.
+Idaho	32.
+Illinois	997.
+Indiana	397.
+Iowa	104.
+Kansas	160.
+Kentucky	263.
+Louisiana	582.
+Maine	23.
+Maryland	546.
+Massachusetts	173.
+Michigan	569.
+Minnesota	113.
+Mississippi	245.
+Missouri	600.
+Montana	41.
+Nebraska	43.
+Nevada	274.
+New Hampshire	14.
+New Jersey	324.
+New Mexico	148.
+New York	548.
+North Carolina	591.
+North Dakota	10.
+Ohio	710.
+Oklahoma	242.
+Oregon	104.
+Pennsylvania	739.
+Rhode Island	20.
+South Carolina	390.
+South Dakota	25.
+Tennessee	527.
+Texas	1412.
+Utah	73.
+Vermont	14.
+Virginia	453.
+Washington	230.
+West Virginia	85.
+Wisconsin	186.
+Wyoming	15.

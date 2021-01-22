@@ -1,4 +1,4 @@
-State	PopulationByLanguageSpokenAtHome
+State	PopulationByLanguageSpokenAtHome (People)
 Alabama	4.558608e6
 Alaska	684298.
 Arizona	6.375189e6

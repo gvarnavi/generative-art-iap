@@ -1,4 +1,4 @@
-State	RetailSalesPerCapita
+State	RetailSalesPerCapita (USDollars)
 Alabama	12364.
 Alaska	13635.
 Arizona	13637.

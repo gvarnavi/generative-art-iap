@@ -1,4 +1,4 @@
-State	Earnings
+State	Earnings (USDollars)
 Alabama	1.07728492e11
 Alaska	2.2621098e10
 Arizona	1.54651463e11

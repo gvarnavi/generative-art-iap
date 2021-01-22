@@ -1,4 +1,4 @@
-State	PersonsPerHousehold
+State	PersonsPerHousehold (People)
 Alabama	2.624483722360409
 Alaska	2.860973703715639
 Arizona	2.7475198455340886

@@ -1,4 +1,4 @@
-State	MeanElevation
+State	MeanElevation (Meters)
 Alabama	150.
 Alaska	580.
 Arizona	1300.

@@ -1,4 +1,4 @@
-State	UnweightedSampleHousingUnits
+State	UnweightedSampleHousingUnits (households)
 Alabama	181816.
 Alaska	45771.
 Arizona	217197.

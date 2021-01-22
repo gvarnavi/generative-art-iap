@@ -1,4 +1,4 @@
-State	FederalGovernmentExpenditure
+State	FederalGovernmentExpenditure (USDollars)
 Alabama	5.6047825e7
 Alaska	1.1922341e7
 Arizona	6.2943007e7

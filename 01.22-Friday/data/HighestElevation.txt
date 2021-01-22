@@ -1,4 +1,4 @@
-State	HighestElevation
+State	HighestElevation (Meters)
 Alabama	733.
 Alaska	6198.
 Arizona	3850.

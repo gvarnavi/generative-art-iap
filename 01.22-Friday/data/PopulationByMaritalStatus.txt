@@ -1,4 +1,4 @@
-State	PopulationByMaritalStatus
+State	PopulationByMaritalStatus (People)
 Alabama	3.941362e6
 Alaska	582153.
 Arizona	5.462011e6

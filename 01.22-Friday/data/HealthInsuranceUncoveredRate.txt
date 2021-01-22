@@ -1,51 +1,51 @@
-State	HealthInsuranceUncoveredRate
-Alabama	0.14800000000000002
-Alaska	0.19
-Arizona	0.18
-Arkansas	0.184
-California	0.179
-Colorado	0.13699999999999998
-Connecticut	0.081
-Delaware	0.10800000000000001
-Florida	0.215
-Georgia	0.192
-Hawaii	0.077
-Idaho	0.159
-Illinois	0.136
-Indiana	0.134
-Iowa	0.10099999999999999
-Kansas	0.126
-Kentucky	0.157
-Louisiana	0.18300000000000002
-Maine	0.095
-Maryland	0.12400000000000003
-Massachusetts	0.040999999999999995
-Michigan	0.109
-Minnesota	0.083
-Mississippi	0.153
-Missouri	0.133
-Montana	0.18100000000000002
-Nebraska	0.133
-Nevada	0.23500000000000001
-New Hampshire	0.12
-New Jersey	0.14
-New Mexico	0.219
-New York	0.113
-North Carolina	0.172
-North Dakota	0.115
-Ohio	0.12300000000000001
-Oklahoma	0.172
-Oregon	0.154
-Pennsylvania	0.12
-Rhode Island	0.12300000000000001
-South Carolina	0.14300000000000002
-South Dakota	0.14400000000000002
-Tennessee	0.139
-Texas	0.24600000000000002
-Utah	0.14400000000000002
-Vermont	0.07
-Virginia	0.125
-Washington	0.136
-West Virginia	0.146
-Wisconsin	0.09699999999999999
-Wyoming	0.154
+State	HealthInsuranceUncoveredRate (Percent)
+Alabama	14.800000000000002
+Alaska	19.
+Arizona	18.
+Arkansas	18.4
+California	17.9
+Colorado	13.699999999999998
+Connecticut	8.1
+Delaware	10.8
+Florida	21.5
+Georgia	19.2
+Hawaii	7.7
+Idaho	15.9
+Illinois	13.600000000000001
+Indiana	13.4
+Iowa	10.1
+Kansas	12.6
+Kentucky	15.7
+Louisiana	18.3
+Maine	9.5
+Maryland	12.400000000000002
+Massachusetts	4.1
+Michigan	10.9
+Minnesota	8.3
+Mississippi	15.299999999999999
+Missouri	13.3
+Montana	18.1
+Nebraska	13.3
+Nevada	23.5
+New Hampshire	12.
+New Jersey	14.000000000000002
+New Mexico	21.9
+New York	11.3
+North Carolina	17.2
+North Dakota	11.5
+Ohio	12.3
+Oklahoma	17.2
+Oregon	15.4
+Pennsylvania	12.
+Rhode Island	12.3
+South Carolina	14.3
+South Dakota	14.400000000000002
+Tennessee	13.900000000000002
+Texas	24.6
+Utah	14.400000000000002
+Vermont	7.000000000000001
+Virginia	12.5
+Washington	13.600000000000001
+West Virginia	14.6
+Wisconsin	9.7
+Wyoming	15.4

@@ -1,4 +1,4 @@
-State	AccommodationAndFoodServicesSales
+State	AccommodationAndFoodServicesSales (USDollars)
 Alabama	6.426342e9
 Alaska	1.851293e9
 Arizona	1.3268514e10

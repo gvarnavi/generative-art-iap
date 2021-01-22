@@ -1,4 +1,4 @@
-State	Workforce
+State	Workforce (People)
 Alabama	2.0523000000000002e6
 Alaska	297600.
 Arizona	2.9354e6

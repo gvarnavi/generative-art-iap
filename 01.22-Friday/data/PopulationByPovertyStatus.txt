@@ -1,4 +1,4 @@
-State	PopulationByPovertyStatus
+State	PopulationByPovertyStatus (People)
 Alabama	4.729116e6
 Alaska	719983.
 Arizona	6.654096e6

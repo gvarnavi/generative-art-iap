@@ -1,4 +1,4 @@
-State	WholesaleSales
+State	WholesaleSales (USDollars)
 Alabama	5.2252752e10
 Alaska	4.563605e9
 Arizona	5.7573459e10

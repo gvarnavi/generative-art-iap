@@ -1,51 +1,51 @@
-State	MinimumWage
-Alabama	0.002013888888888889
-Alaska	0.0028305555555555553
-Arizona	0.003333333333333333
-Arkansas	0.002777777777777778
-California	0.003611111111111111
-Colorado	0.003333333333333333
-Connecticut	0.003333333333333333
-Delaware	0.0025694444444444445
-Florida	0.0023777777777777777
-Georgia	0.002013888888888889
-Hawaii	0.0028055555555555555
-Idaho	0.002013888888888889
-Illinois	0.002777777777777778
-Indiana	0.002013888888888889
-Iowa	0.002013888888888889
-Kansas	0.002013888888888889
-Kentucky	0.002013888888888889
-Louisiana	0.002013888888888889
-Maine	0.003333333333333333
-Maryland	0.0030555555555555557
-Massachusetts	0.0035416666666666665
-Michigan	0.002680555555555556
-Minnesota	0.002777777777777778
-Mississippi	0.002013888888888889
-Missouri	0.0026249999999999997
-Montana	0.002402777777777778
-Nebraska	0.0025
-Nevada	0.0025
-New Hampshire	0.002013888888888889
-New Jersey	0.0030555555555555557
-New Mexico	0.0025
-New York	0.003277777777777778
-North Carolina	0.002013888888888889
-North Dakota	0.002013888888888889
-Ohio	0.0024166666666666664
-Oklahoma	0.002013888888888889
-Oregon	0.003333333333333333
-Pennsylvania	0.002013888888888889
-Rhode Island	0.0031944444444444446
-South Carolina	0.002013888888888889
-South Dakota	0.0025833333333333333
-Tennessee	0.002013888888888889
-Texas	0.002013888888888889
-Utah	0.002013888888888889
-Vermont	0.0030444444444444447
-Virginia	0.002013888888888889
-Washington	0.00375
-West Virginia	0.0024305555555555556
-Wisconsin	0.002013888888888889
-Wyoming	0.002013888888888889
+State	MinimumWage (USDollars per Hours)
+Alabama	7.25
+Alaska	10.19
+Arizona	12.
+Arkansas	10.
+California	13.
+Colorado	12.
+Connecticut	12.
+Delaware	9.25
+Florida	8.56
+Georgia	7.25
+Hawaii	10.1
+Idaho	7.25
+Illinois	10.
+Indiana	7.25
+Iowa	7.25
+Kansas	7.25
+Kentucky	7.25
+Louisiana	7.25
+Maine	12.
+Maryland	11.
+Massachusetts	12.75
+Michigan	9.65
+Minnesota	10.
+Mississippi	7.25
+Missouri	9.45
+Montana	8.65
+Nebraska	9.
+Nevada	9.
+New Hampshire	7.25
+New Jersey	11.
+New Mexico	9.
+New York	11.8
+North Carolina	7.25
+North Dakota	7.25
+Ohio	8.7
+Oklahoma	7.25
+Oregon	12.
+Pennsylvania	7.25
+Rhode Island	11.5
+South Carolina	7.25
+South Dakota	9.3
+Tennessee	7.25
+Texas	7.25
+Utah	7.25
+Vermont	10.96
+Virginia	7.25
+Washington	13.5
+West Virginia	8.75
+Wisconsin	7.25
+Wyoming	7.25

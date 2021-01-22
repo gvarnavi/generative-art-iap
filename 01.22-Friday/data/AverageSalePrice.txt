@@ -1,4 +1,4 @@
-State	AverageSalePrice
+State	AverageSalePrice (USDollars)
 Alabama	153099.
 Alaska	263931.
 Arizona	182553.

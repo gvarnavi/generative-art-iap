@@ -1,4 +1,4 @@
-State	EarningsAverage
+State	EarningsAverage (USDollars)
 Alabama	41148.
 Alaska	50830.
 Arizona	43927.

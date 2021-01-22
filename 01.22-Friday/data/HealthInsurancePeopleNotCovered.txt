@@ -1,4 +1,4 @@
-State	HealthInsurancePeopleNotCovered
+State	HealthInsurancePeopleNotCovered (People)
 Alabama	711302.
 Alaska	133848.
 Arizona	1.198324e6

@@ -1,4 +1,4 @@
-State	HousingUnits
+State	HousingUnits (households)
 Alabama	1.856695e6
 Alaska	252536.
 Arizona	2.482311e6

@@ -1,4 +1,4 @@
-State	PopulationBySchoolEnrollment
+State	PopulationBySchoolEnrollment (People)
 Alabama	4.679631e6
 Alaska	706065.
 Arizona	6.558159e6

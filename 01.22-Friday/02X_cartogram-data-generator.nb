@@ -1,0 +1,246 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      8313,        236]
+NotebookOptionsPosition[      7746,        219]
+NotebookOutlinePosition[      8172,        236]
+CellTagsIndexPosition[      8129,        233]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"usStates", "=", 
+   RowBox[{"EntityClass", "[", 
+    RowBox[{
+    "\"\<AdministrativeDivision\>\"", ",", " ", "\"\<AllUSStatesPlusDC\>\""}],
+     "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"usStatesFull", "=", 
+   RowBox[{"Delete", "[", 
+    RowBox[{
+     RowBox[{"EntityList", "[", "usStates", "]"}], ",", 
+     RowBox[{"{", "9", "}"}]}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"usNames", "=", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"First", "[", 
+      RowBox[{"StringSplit", "[", 
+       RowBox[{
+        RowBox[{"#", "[", "\"\<Name\>\"", "]"}], ",", "\"\<,\>\""}], "]"}], 
+      "]"}], "&"}], "/@", "usStatesFull"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"allProperties", "=", 
+   RowBox[{
+    RowBox[{"usStatesFull", "[", 
+     RowBox[{"[", "1", "]"}], "]"}], "[", "\"\<Properties\>\"", "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"properties", "=", 
+   RowBox[{"Cases", "[", 
+    RowBox[{
+     RowBox[{"Thread", "[", 
+      RowBox[{"{", 
+       RowBox[{"allProperties", ",", 
+        RowBox[{"EntityValue", "[", 
+         RowBox[{
+          RowBox[{"usStatesFull", "[", 
+           RowBox[{"[", "1", "]"}], "]"}], ",", "allProperties"}], "]"}]}], 
+       "}"}], "]"}], ",", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{"prop_", ",", "quant_"}], "}"}], "/;", 
+       RowBox[{"QuantityQ", "[", "quant", "]"}]}], "\[RuleDelayed]", 
+      "prop"}]}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"units", "=", 
+   RowBox[{"Replace", "[", 
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{
+         RowBox[{"(", 
+          RowBox[{
+           RowBox[{"(", 
+            RowBox[{
+             RowBox[{"(", 
+              RowBox[{
+               RowBox[{"QuantityUnit", "[", 
+                RowBox[{"EntityValue", "[", 
+                 RowBox[{
+                  RowBox[{"usStatesFull", "[", 
+                   RowBox[{"[", "1", "]"}], "]"}], ",", "properties"}], "]"}],
+                 "]"}], "/.", 
+               RowBox[{
+                RowBox[{"IndependentUnit", "[", "a_", "]"}], "\[RuleDelayed]",
+                 "a"}]}], ")"}], "/.", 
+             RowBox[{
+              StyleBox[
+               RowBox[{"Times", "[", 
+                RowBox[{"a_", ",", 
+                 RowBox[{"Power", "[", 
+                  RowBox[{"b_", ",", 
+                   RowBox[{"-", "1"}]}], "]"}]}], "]"}],
+               ShowSpecialCharacters->False,
+               ShowStringCharacters->True,
+               NumberMarks->True], "\[RuleDelayed]", 
+              RowBox[{"{", 
+               RowBox[{"a", ",", "\"\< per \>\"", ",", "b"}], "}"}]}]}], 
+            ")"}], "/.", 
+           RowBox[{
+            TagBox[
+             StyleBox[
+              RowBox[{"Power", "[", 
+               RowBox[{"a_", ",", "2"}], "]"}],
+              ShowSpecialCharacters->False,
+              ShowStringCharacters->True,
+              NumberMarks->True],
+             FullForm], "\[RuleDelayed]", 
+            RowBox[{"a", "<>", "\"\< squared\>\""}]}]}], ")"}], "/.", 
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{
+            StyleBox[
+             RowBox[{"Times", "[", 
+              RowBox[{"a_", ",", 
+               RowBox[{"Power", "[", 
+                RowBox[{"b_", ",", 
+                 RowBox[{"-", "1"}]}], "]"}]}], "]"}],
+             ShowSpecialCharacters->False,
+             ShowStringCharacters->True,
+             NumberMarks->True], ",", "\"\< per \>\"", ",", "c_"}], "}"}], 
+          "\[RuleDelayed]", 
+          RowBox[{"{", 
+           RowBox[{
+           "a", ",", "\"\< per \>\"", ",", "b", ",", "\"\< per \>\"", ",", 
+            "c"}], "}"}]}]}], ")"}], "/.", 
+       RowBox[{
+        TagBox[
+         StyleBox[
+          RowBox[{"Times", "[", 
+           RowBox[{
+            RowBox[{"Power", "[", 
+             RowBox[{"a_", ",", 
+              RowBox[{"-", "2"}]}], "]"}], ",", "b_"}], "]"}],
+          ShowSpecialCharacters->False,
+          ShowStringCharacters->True,
+          NumberMarks->True],
+         FullForm], "\[RuleDelayed]", 
+        RowBox[{"{", 
+         RowBox[{
+         "b", ",", "\"\< per \>\"", ",", "a", ",", "\"\< squared\>\""}], 
+         "}"}]}]}], ")"}], ",", 
+     RowBox[{"a_List", "\[RuleDelayed]", 
+      RowBox[{"StringJoin", "@@", "a"}]}], ",", 
+     RowBox[{"{", "1", "}"}]}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"entries", "[", "n_", "]"}], ":=", 
+   RowBox[{"N", "@", 
+    RowBox[{"QuantityMagnitude", "[", 
+     RowBox[{"EntityValue", "[", 
+      RowBox[{"usStatesFull", ",", 
+       RowBox[{"properties", "[", 
+        RowBox[{"[", "n", "]"}], "]"}]}], "]"}], "]"}]}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"cartogramDataset", "[", "n_", "]"}], ":=", 
+  RowBox[{"If", "[", 
+   RowBox[{
+    RowBox[{"AllTrue", "[", 
+     RowBox[{
+      RowBox[{"entries", "[", "n", "]"}], ",", "Positive"}], "]"}], ",", 
+    RowBox[{"Prepend", "[", 
+     RowBox[{
+      RowBox[{"Thread", "[", 
+       RowBox[{"{", 
+        RowBox[{"usNames", ",", 
+         RowBox[{"entries", "[", "n", "]"}]}], "}"}], "]"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"\"\<State\>\"", ",", 
+        RowBox[{
+         RowBox[{"properties", "[", 
+          RowBox[{"[", 
+           RowBox[{"n", ",", "2"}], "]"}], "]"}], "<>", "\"\< (\>\"", "<>", 
+         RowBox[{"units", "[", 
+          RowBox[{"[", "n", "]"}], "]"}], "<>", "\"\<)\>\""}]}], "}"}]}], 
+     "]"}], ",", "Nothing"}], "]"}]}]}], "Input",
+ CellChangeTimes->{
+  3.8203227533374643`*^9, {3.820322829506097*^9, 3.820322878130877*^9}, {
+   3.820322916003886*^9, 3.820322938172481*^9}, {3.8203231208226337`*^9, 
+   3.820323209405492*^9}, {3.8203258614530773`*^9, 3.820325915927075*^9}, {
+   3.82032596815239*^9, 3.8203259703520203`*^9}, {3.820326039641123*^9, 
+   3.820326094384467*^9}, {3.8203277737698717`*^9, 3.8203277813529253`*^9}, {
+   3.820330878184381*^9, 3.820330916743566*^9}},
+ CellLabel->
+  "In[377]:=",ExpressionUUID->"e2596d01-f74e-4e23-961f-f35780eef008"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"exportCartogramDataset", "[", "n_", "]"}], ":=", 
+  RowBox[{"If", "[", 
+   RowBox[{
+    RowBox[{"AllTrue", "[", 
+     RowBox[{
+      RowBox[{"entries", "[", "n", "]"}], ",", "Positive"}], "]"}], ",", 
+    RowBox[{"Export", "[", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"properties", "[", 
+        RowBox[{"[", 
+         RowBox[{"n", ",", "2"}], "]"}], "]"}], "<>", "\"\<.txt\>\""}], ",", 
+      RowBox[{"cartogramDataset", "[", "n", "]"}], ",", "\"\<Table\>\""}], 
+     "]"}], ",", "Nothing"}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.8203233819055557`*^9, 3.820323403752768*^9}, 
+   3.820323438528783*^9, {3.8203234896401567`*^9, 3.8203234916000433`*^9}, {
+   3.820330974752969*^9, 3.820330982447747*^9}},
+ CellLabel->
+  "In[387]:=",ExpressionUUID->"50636b97-6b5c-49de-9239-dcce224405bd"],
+
+Cell[BoxData[
+ RowBox[{"exportCartogramDataset", "/@", 
+  RowBox[{"Range", "[", "102", "]"}]}]], "Input",
+ CellChangeTimes->{{3.820330983771769*^9, 3.820330989727357*^9}},
+ CellLabel->
+  "In[389]:=",ExpressionUUID->"ab7281d2-2e3a-415f-892d-fceac6219492"]
+},
+WindowSize->{1440., 760.5},
+WindowMargins->{{0, Automatic}, {0, Automatic}},
+Magnification:>1.2 Inherited,
+FrontEndVersion->"12.2 for Linux x86 (64-bit) (December 12, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"de71a724-fb7f-4a7d-9946-eec23af13ca8"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 6095, 168, 328, "Input",ExpressionUUID->"e2596d01-f74e-4e23-961f-f35780eef008"],
+Cell[6656, 190, 829, 20, 35, "Input",ExpressionUUID->"50636b97-6b5c-49de-9239-dcce224405bd"],
+Cell[7488, 212, 254, 5, 35, "Input",ExpressionUUID->"ab7281d2-2e3a-415f-892d-fceac6219492"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
