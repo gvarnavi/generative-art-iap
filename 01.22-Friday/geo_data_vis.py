@@ -3,6 +3,20 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 from matplotlib import cm
 
+state_names_list = ['Alabama', 'Alaska', 'Arizona', 'Arkansas',
+                    'California', 'Colorado', 'Connecticut',
+                    'Delaware', 'Florida', 'Georgia', 'Hawaii',
+                    'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas',
+                    'Kentucky', 'Louisiana', 'Maine', 'Maryland',
+                    'Massachusetts', 'Michigan', 'Minnesota',
+                    'Mississippi', 'Missouri', 'Montana', 'Nebraska',
+                    'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico',
+                    'New York', 'North Carolina', 'North Dakota', 'Ohio',
+                    'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island',
+                    'South Carolina', 'South Dakota', 'Tennessee', 'Texas',
+                    'Utah', 'Vermont', 'Virginia', 'Washington',
+                    'West Virginia', 'Wisconsin', 'Wyoming']
+
 # Helper function to read in a data text file, sort data by state,
 # and write the sorted numeric data to a binary file.
 def load_data(feature):
@@ -11,21 +25,42 @@ def load_data(feature):
     f = open("data/"+feature+".txt","r")
     contents = f.readlines()
     f.close()
+    flag = 0
     header = contents[0]
     for i,line in enumerate(contents[1:51]):
         a = line.split()
         if len(a) == 2:
-            state_names += [a[0]]
+            state_name = a[0]
+            if state_name not in state_names_list:
+                print("Encountered invalid line (%d): %s"%(i+1,a))
+                flag = 1
+                break
+            else:
+                state_names += [state_name]
         elif len(a) == 3:
-            state_names += [a[0]+" "+a[1]]
+            state_name = a[0]+" "+a[1]
+            if state_name not in state_names_list:
+                print("Encountered invalid line (%d): %s"%(i+1,a))
+                flag = 1
+                break
+            else:
+                state_names += [state_name]
         else:
             print("Encountered invalid line (%d): %s"%(i+1,a))
+            flag = 1
+            break
+        if float(a[-1]) <= 0:
+            print("Encountered negative or zero entry in line (%d): %s"%(i+1,a))
+            flag = 1
             break
         feature_values += [float(a[-1])]
-    sort_indices = [i for (s,i) in sorted((s,i) for (i,s) in enumerate(state_names))]
-    feature_values = np.array(feature_values)[sort_indices]
-    feature_values.astype('float').tofile("data/"+feature+".bin")
-    print("Saved numeric data to 'data/%s.bin'"%feature)
+    if flag:
+        print("Data not saved!")
+    else:
+        sort_indices = [i for (s,i) in sorted((s,i) for (i,s) in enumerate(state_names))]
+        feature_values = np.array(feature_values)[sort_indices]
+        feature_values.astype('float').tofile("data/"+feature+".bin")
+        print("Saved numeric data to 'data/%s.bin'"%feature)
     return header
 
 # Helper function to make a truncated colormap.
@@ -37,7 +72,7 @@ def make_colormap(colormap, minval=0.0, maxval=1.0, n=100):
 
 # Add a colorbar.
 def add_cbar(data, fig, ax, colormap):
-    cnorm = colors.Normalize(vmin=np.min(data), vmax=np.max(data))
+    cnorm = colors.Normalize(vmin=np.min(data[data>0]), vmax=np.max(data))
     sm = cm.ScalarMappable(cmap=colormap, norm=cnorm)
     sm.set_array([])
     cbar = fig.colorbar(sm, ax=ax, pad=0.05, shrink=0.7)
@@ -46,7 +81,7 @@ def add_cbar(data, fig, ax, colormap):
 # Helper function to make a plot of a map with associated colorbar.
 def plot_map(data, header, colormap, white_edges, feature_transform=None):
     # Shift and rescale data.
-    norm_data = data - np.min(data)
+    norm_data = data - np.min(data[data>0])
     norm_data /= np.max(norm_data)
     
     # Apply colormap to create a color image.
