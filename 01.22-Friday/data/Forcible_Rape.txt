@@ -1,0 +1,51 @@
+Forcible Rape by state (crimes per Years)
+Alabama	2028.
+Alaska	863.
+Arizona	3581.
+Arkansas	2053.
+California	14721.
+Colorado	3858.
+Connecticut	837.
+Delaware	334.
+Florida	7940.
+Georgia	2718.
+Hawaii	567.
+Idaho	707.
+Illinois	5556.
+Indiana	2625.
+Iowa	1234.
+Kansas	1627.
+Kentucky	1661.
+Louisiana	1867.
+Maine	473.
+Maryland	1691.
+Massachusetts	2197.
+Michigan	7031.
+Minnesota	2385.
+Mississippi	1091.
+Missouri	2729.
+Montana	613.
+Nebraska	1191.
+Nevada	1890.
+New Hampshire	663.
+New Jersey	1505.
+New Mexico	1259.
+New York	6324.
+North Carolina	2715.
+North Dakota	399.
+Ohio	5859.
+Oklahoma	2142.
+Oregon	1999.
+Pennsylvania	4201.
+Rhode Island	445.
+South Carolina	2504.
+South Dakota	595.
+Tennessee	2934.
+Texas	14470.
+Utah	1697.
+Vermont	218.
+Virginia	2862.
+Washington	3255.
+West Virginia	795.
+Wisconsin	2139.
+Wyoming	263.

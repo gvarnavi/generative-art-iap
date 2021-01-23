@@ -1,0 +1,51 @@
+Wholesale Sales by state (USDollars)
+Alabama	5.2252752e10
+Alaska	4.563605e9
+Arizona	5.7573459e10
+Arkansas	2.9659789e10
+California	5.98456486e11
+Colorado	5.3598986e10
+Connecticut	1.07917037e11
+Delaware	5.727401e9
+Florida	2.21641518e11
+Georgia	1.41962359e11
+Hawaii	8.894672e9
+Idaho	1.4286715e10
+Illinois	2.31082768e11
+Indiana	6.7634947e10
+Iowa	4.1068338e10
+Kansas	4.5863865e10
+Kentucky	7.4680759e10
+Louisiana	5.1415553e10
+Maine	8.823719e9
+Maryland	5.1276797e10
+Massachusetts	9.5275672e10
+Michigan	1.07109349e11
+Minnesota	8.2878056e10
+Mississippi	2.3003585e10
+Missouri	8.1032913e10
+Montana	8.202782e9
+Nebraska	2.4019868e10
+Nevada	1.9255893e10
+New Hampshire	1.4564458e10
+New Jersey	2.33413004e11
+New Mexico	1.0589286e10
+New York	3.13461904e11
+North Carolina	8.8795885e10
+North Dakota	1.3099348e10
+Ohio	1.35575279e11
+Oklahoma	4.8074682e10
+Oregon	5.1910777e10
+Pennsylvania	1.42859202e11
+Rhode Island	9.182788e9
+South Carolina	4.0498047e10
+South Dakota	1.1400476e10
+Tennessee	8.0116528e10
+Texas	4.24238194e11
+Utah	2.5417368e10
+Vermont	5.121694e9
+Virginia	6.0513396e10
+Washington	7.6790966e10
+West Virginia	1.1036467e10
+Wisconsin	5.9996244e10
+Wyoming	6.35289e9

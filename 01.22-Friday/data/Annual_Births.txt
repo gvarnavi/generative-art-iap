@@ -1,0 +1,51 @@
+Annual Births by state (People per Years)
+Alabama	57313.
+Alaska	10031.
+Arizona	81942.
+Arkansas	36640.
+California	462617.
+Colorado	64524.
+Connecticut	34567.
+Delaware	10683.
+Florida	221695.
+Georgia	127873.
+Hawaii	16878.
+Idaho	22220.
+Illinois	144299.
+Indiana	80711.
+Iowa	37672.
+Kansas	35457.
+Kentucky	53471.
+Louisiana	58498.
+Maine	12073.
+Maryland	70091.
+Massachusetts	70419.
+Michigan	109472.
+Minnesota	67642.
+Mississippi	35978.
+Missouri	71297.
+Montana	11618.
+Nebraska	25343.
+Nevada	35932.
+New Hampshire	12004.
+New Jersey	99501.
+New Mexico	23125.
+New York	222924.
+North Carolina	119203.
+North Dakota	10536.
+Ohio	134291.
+Oklahoma	48759.
+Oregon	43305.
+Pennsylvania	135190.
+Rhode Island	10481.
+South Carolina	56353.
+South Dakota	11911.
+Tennessee	80239.
+Texas	378664.
+Utah	48642.
+Vermont	5581.
+Virginia	98403.
+Washington	87950.
+West Virginia	17888.
+Wisconsin	63712.
+Wyoming	6601.

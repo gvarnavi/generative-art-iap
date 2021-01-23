@@ -1,0 +1,51 @@
+Civilian Unemployment Rate by state (Percent)
+Alabama	4.4
+Alaska	8.1
+Arizona	7.8
+Arkansas	6.200000000000001
+California	8.2
+Colorado	6.4
+Connecticut	8.2
+Delaware	5.1
+Florida	6.4
+Georgia	5.7
+Hawaii	10.1
+Idaho	4.8
+Illinois	6.9
+Indiana	5.
+Iowa	3.6000000000000005
+Kansas	5.6
+Kentucky	5.6
+Louisiana	8.3
+Maine	5.
+Maryland	6.800000000000001
+Massachusetts	6.7
+Michigan	6.9
+Minnesota	4.4
+Mississippi	6.4
+Missouri	4.4
+Montana	4.9
+Nebraska	3.1000000000000005
+Nevada	10.1
+New Hampshire	3.8
+New Jersey	10.2
+New Mexico	7.5
+New York	8.4
+North Carolina	6.200000000000001
+North Dakota	4.5
+Ohio	5.7
+Oklahoma	5.9
+Oregon	6.
+Pennsylvania	6.6000000000000005
+Rhode Island	7.3
+South Carolina	4.4
+South Dakota	3.5000000000000004
+Tennessee	5.3
+Texas	8.1
+Utah	4.3
+Vermont	3.1000000000000005
+Virginia	4.9
+Washington	6.
+West Virginia	6.200000000000001
+Wisconsin	5.
+Wyoming	5.1

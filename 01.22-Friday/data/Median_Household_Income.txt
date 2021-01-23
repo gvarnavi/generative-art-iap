@@ -1,0 +1,51 @@
+Median Household Income by state (USDollars per Years)
+Alabama	46472.
+Alaska	76114.
+Arizona	53510.
+Arkansas	43813.
+California	67169.
+Colorado	65458.
+Connecticut	73781.
+Delaware	63036.
+Florida	50883.
+Georgia	52977.
+Hawaii	74923.
+Idaho	50985.
+Illinois	61229.
+Indiana	52182.
+Iowa	56570.
+Kansas	55477.
+Kentucky	46535.
+Louisiana	46710.
+Maine	53024.
+Maryland	78916.
+Massachusetts	74167.
+Michigan	52668.
+Minnesota	65699.
+Mississippi	42009.
+Missouri	51542.
+Montana	50801.
+Nebraska	56675.
+Nevada	55434.
+New Hampshire	71305.
+New Jersey	76475.
+New Mexico	46718.
+New York	62765.
+North Carolina	50320.
+North Dakota	61285.
+Ohio	52407.
+Oklahoma	49767.
+Oregon	56119.
+Pennsylvania	56951.
+Rhode Island	61043.
+South Carolina	48781.
+South Dakota	54126.
+Tennessee	48708.
+Texas	57051.
+Utah	65325.
+Vermont	57808.
+Virginia	68766.
+Washington	66174.
+West Virginia	44061.
+Wisconsin	56759.
+Wyoming	60938.

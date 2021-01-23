@@ -1,0 +1,51 @@
+Housing Permit by state (housing units per Months)
+Alabama	1338.
+Alaska	124.
+Arizona	4580.
+Arkansas	1307.
+California	8367.
+Colorado	3690.
+Connecticut	446.
+Delaware	561.
+Florida	11634.
+Georgia	4499.
+Hawaii	385.
+Idaho	1490.
+Illinois	1336.
+Indiana	1834.
+Iowa	1065.
+Kansas	532.
+Kentucky	1113.
+Louisiana	1342.
+Maine	408.
+Maryland	1403.
+Massachusetts	1677.
+Michigan	2133.
+Minnesota	2402.
+Mississippi	653.
+Missouri	1615.
+Montana	274.
+Nebraska	1020.
+Nevada	1943.
+New Hampshire	448.
+New Jersey	3198.
+New Mexico	407.
+New York	3682.
+North Carolina	7200.
+North Dakota	248.
+Ohio	2254.
+Oklahoma	1109.
+Oregon	1377.
+Pennsylvania	2367.
+Rhode Island	117.
+South Carolina	4098.
+South Dakota	872.
+Tennessee	4114.
+Texas	17953.
+Utah	2783.
+Vermont	166.
+Virginia	2521.
+Washington	3669.
+West Virginia	274.
+Wisconsin	1498.
+Wyoming	144.

@@ -1,4 +1,4 @@
-State	Robbery (crimes per Years)
+Robbery by state (crimes per Years)
 Alabama	4217.
 Alaska	951.
 Arizona	7440.

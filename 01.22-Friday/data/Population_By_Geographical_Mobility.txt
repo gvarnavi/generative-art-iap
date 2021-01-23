@@ -1,0 +1,51 @@
+Population By Geographical Mobility by state (People)
+Alabama	4.795681e6
+Alaska	728411.
+Arizona	6.729145e6
+Arkansas	2.94061e6
+California	3.8521701e7
+Colorado	5.373351e6
+Connecticut	3.560175e6
+Delaware	933425.
+Florida	2.0065661e7
+Georgia	1.0075118e7
+Hawaii	1.403886e6
+Idaho	1.636542e6
+Illinois	1.2705796e7
+Indiana	6.536175e6
+Iowa	3.079236e6
+Kansas	2.866057e6
+Kentucky	4.372319e6
+Louisiana	4.605708e6
+Maine	1.3177e6
+Maryland	5.927919e6
+Massachusetts	6.718756e6
+Michigan	9.813097e6
+Minnesota	5.423917e6
+Mississippi	2.951122e6
+Missouri	6.00445e6
+Montana	1.018509e6
+Nebraska	1.868396e6
+Nevada	2.85472e6
+New Hampshire	1.319364e6
+New Jersey	8.863801e6
+New Mexico	2.060649e6
+New York	1.9577129e7
+North Carolina	9.938545e6
+North Dakota	735068.
+Ohio	1.1477267e7
+Oklahoma	3.846134e6
+Oregon	3.982638e6
+Pennsylvania	1.2653578e7
+Rhode Island	1.045699e6
+South Carolina	4.838105e6
+South Dakota	843823.
+Tennessee	6.521606e6
+Texas	2.7043629e7
+Utah	2.945506e6
+Vermont	619085.
+Virginia	8.266889e6
+Washington	7.085994e6
+West Virginia	1.818344e6
+Wisconsin	5.699048e6
+Wyoming	576531.

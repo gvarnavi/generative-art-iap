@@ -1,0 +1,51 @@
+Infant Deaths by state (People per Years)
+Alabama	571.
+Alaska	76.
+Arizona	651.
+Arkansas	350.
+California	2835.
+Colorado	404.
+Connecticut	260.
+Delaware	99.
+Florida	1717.
+Georgia	1206.
+Hawaii	107.
+Idaho	165.
+Illinois	1309.
+Indiana	708.
+Iowa	208.
+Kansas	292.
+Kentucky	438.
+Louisiana	629.
+Maine	89.
+Maryland	616.
+Massachusetts	370.
+Michigan	940.
+Minnesota	381.
+Mississippi	488.
+Missouri	603.
+Montana	73.
+Nebraska	149.
+Nevada	257.
+New Hampshire	87.
+New Jersey	632.
+New Mexico	173.
+New York	1407.
+North Carolina	1033.
+North Dakota	50.
+Ohio	1170.
+Oklahoma	432.
+Oregon	267.
+Pennsylvania	1138.
+Rhode Island	76.
+South Carolina	522.
+South Dakota	82.
+Tennessee	733.
+Texas	2486.
+Utah	273.
+Vermont	36.
+Virginia	765.
+Washington	407.
+West Virginia	155.
+Wisconsin	462.
+Wyoming	54.

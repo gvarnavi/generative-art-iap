@@ -1,4 +1,4 @@
-State	Area (Kilometers squared)
+Area by state (Kilometers squared)
 Alabama	135767.34509304035
 Alaska	1.7233367679472624e6
 Arizona	295233.5242836219

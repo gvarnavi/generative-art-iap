@@ -1,0 +1,51 @@
+Federal Government Expenditure by state (USDollars)
+Alabama	5.6047825e7
+Alaska	1.1922341e7
+Arizona	6.2943007e7
+Arkansas	2.8025429e7
+California	3.31030869e8
+Colorado	4.6028683e7
+Connecticut	5.3019842e7
+Delaware	7.982219e6
+Florida	1.80887431e8
+Georgia	8.6048104e7
+Hawaii	1.8985405e7
+Idaho	1.383303e7
+Illinois	1.0927865e8
+Indiana	6.1270461e7
+Iowa	2.8948525e7
+Kansas	2.9571725e7
+Kentucky	5.6255193e7
+Louisiana	5.2638645e7
+Maine	1.4462689e7
+Maryland	9.607097e7
+Massachusetts	8.1769802e7
+Michigan	9.1316137e7
+Minnesota	4.4338124e7
+Mississippi	3.3104689e7
+Missouri	6.7372613e7
+Montana	1.0353034e7
+Nebraska	1.6791188e7
+Nevada	1.9893713e7
+New Hampshire	1.1776455e7
+New Jersey	7.9592437e7
+New Mexico	2.7470814e7
+New York	1.95012629e8
+North Carolina	8.5843896e7
+North Dakota	8.942369e6
+Ohio	1.05173413e8
+Oklahoma	3.8242009e7
+Oregon	3.3599712e7
+Pennsylvania	1.39880659e8
+Rhode Island	1.1441205e7
+South Carolina	4.833148e7
+South Dakota	9.643727e6
+Tennessee	6.5525306e7
+Texas	2.16379449e8
+Utah	2.2338847e7
+Vermont	6.772027e6
+Virginia	1.27798026e8
+Washington	6.8981276e7
+West Virginia	2.0464822e7
+Wisconsin	5.2557003e7
+Wyoming	6.505987e6

@@ -1,0 +1,51 @@
+Minimum Wage by state (USDollars per Hours)
+Alabama	7.25
+Alaska	10.19
+Arizona	12.
+Arkansas	10.
+California	13.
+Colorado	12.
+Connecticut	12.
+Delaware	9.25
+Florida	8.56
+Georgia	7.25
+Hawaii	10.1
+Idaho	7.25
+Illinois	10.
+Indiana	7.25
+Iowa	7.25
+Kansas	7.25
+Kentucky	7.25
+Louisiana	7.25
+Maine	12.
+Maryland	11.
+Massachusetts	12.75
+Michigan	9.65
+Minnesota	10.
+Mississippi	7.25
+Missouri	9.45
+Montana	8.65
+Nebraska	9.
+Nevada	9.
+New Hampshire	7.25
+New Jersey	11.
+New Mexico	9.
+New York	11.8
+North Carolina	7.25
+North Dakota	7.25
+Ohio	8.7
+Oklahoma	7.25
+Oregon	12.
+Pennsylvania	7.25
+Rhode Island	11.5
+South Carolina	7.25
+South Dakota	9.3
+Tennessee	7.25
+Texas	7.25
+Utah	7.25
+Vermont	10.96
+Virginia	7.25
+Washington	13.5
+West Virginia	8.75
+Wisconsin	7.25
+Wyoming	7.25

@@ -1,0 +1,51 @@
+Home Ownership Rate by state (Percent)
+Alabama	70.7
+Alaska	62.6
+Arizona	65.8
+Arkansas	65.3
+California	54.79999999999999
+Colorado	64.7
+Connecticut	64.3
+Delaware	73.1
+Florida	66.
+Georgia	64.4
+Hawaii	60.
+Idaho	70.6
+Illinois	65.1
+Indiana	69.5
+Iowa	69.5
+Kansas	69.2
+Kentucky	69.5
+Louisiana	65.6
+Maine	73.8
+Maryland	68.8
+Massachusetts	61.3
+Michigan	73.
+Minnesota	71.4
+Mississippi	72.7
+Missouri	69.1
+Montana	68.7
+Nebraska	68.2
+Nevada	58.20000000000001
+New Hampshire	75.
+New Jersey	65.
+New Mexico	67.4
+New York	52.
+North Carolina	65.1
+North Dakota	61.4
+Ohio	68.2
+Oklahoma	68.8
+Oregon	62.4
+Pennsylvania	69.2
+Rhode Island	63.800000000000004
+South Carolina	72.6
+South Dakota	69.5
+Tennessee	68.8
+Texas	62.4
+Utah	71.9
+Vermont	70.9
+Virginia	67.6
+Washington	63.800000000000004
+West Virginia	75.6
+Wisconsin	66.1
+Wyoming	71.3

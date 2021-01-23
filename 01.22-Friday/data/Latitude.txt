@@ -1,4 +1,4 @@
-State	Latitude (AngularDegrees)
+Latitude by state (AngularDegrees)
 Alabama	32.78066773274687
 Alaska	64.53325502228302
 Arizona	34.328710239492224

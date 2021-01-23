@@ -1,0 +1,51 @@
+Total Voter Registration Rate by state (Percent)
+Alabama	67.9617
+Alaska	69.0653
+Arizona	60.5332
+Arkansas	65.6858
+California	53.8432
+Colorado	68.2105
+Connecticut	63.90710000000001
+Delaware	66.8086
+Florida	59.276300000000006
+Georgia	64.1467
+Hawaii	49.8301
+Idaho	64.4896
+Illinois	68.5465
+Indiana	66.1234
+Iowa	69.2175
+Kansas	67.1171
+Kentucky	67.3069
+Louisiana	70.64
+Maine	78.4721
+Maryland	67.3473
+Massachusetts	68.1094
+Michigan	71.2697
+Minnesota	72.9043
+Mississippi	78.295
+Missouri	72.0619
+Montana	72.7671
+Nebraska	71.6558
+Nevada	61.38450000000001
+New Hampshire	73.0761
+New Jersey	60.6998
+New Mexico	59.2073
+New York	58.9576
+North Carolina	68.0724
+North Dakota	72.814
+Ohio	69.5429
+Oklahoma	63.6633
+Oregon	67.4127
+Pennsylvania	69.2264
+Rhode Island	64.3719
+South Carolina	68.9755
+South Dakota	69.2769
+Tennessee	64.2941
+Texas	58.1202
+Utah	66.6961
+Vermont	70.2316
+Virginia	69.3528
+Washington	69.8563
+West Virginia	63.634
+Wisconsin	74.4237
+Wyoming	69.7006

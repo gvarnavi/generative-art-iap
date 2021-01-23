@@ -1,4 +1,4 @@
-State	Burglary (crimes per Years)
+Burglary by state (crimes per Years)
 Alabama	31477.
 Alaska	4171.
 Arizona	37627.

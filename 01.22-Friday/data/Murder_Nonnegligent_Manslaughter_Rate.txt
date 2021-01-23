@@ -1,0 +1,51 @@
+Murder Nonnegligent Manslaughter Rate by state (crimes per Years per People)
+Alabama	0.00008300000000000001
+Alaska	0.00008400000000000001
+Arizona	0.00005900000000000001
+Arkansas	0.000086
+California	0.000046
+Colorado	0.000039
+Connecticut	0.000028
+Delaware	0.000056
+Florida	0.00005
+Georgia	0.000067
+Hawaii	0.000027000000000000002
+Idaho	0.000019
+Illinois	0.000078
+Indiana	0.00006000000000000001
+Iowa	0.000033
+Kansas	0.000055
+Kentucky	0.00005900000000000001
+Louisiana	0.000124
+Maine	0.000017
+Maryland	0.00009
+Massachusetts	0.000025
+Michigan	0.000057
+Minnesota	0.00002
+Mississippi	0.000082
+Missouri	0.00009800000000000001
+Montana	0.000039
+Nebraska	0.000022000000000000003
+Nevada	0.000091
+New Hampshire	0.00001
+New Jersey	0.000036
+New Mexico	0.000071
+New York	0.000028
+North Carolina	0.000058
+North Dakota	0.000013000000000000001
+Ohio	0.000061
+Oklahoma	0.000062
+Oregon	0.000025
+Pennsylvania	0.000058
+Rhode Island	0.000019
+South Carolina	0.000078
+South Dakota	0.000029
+Tennessee	0.000078
+Texas	0.00005
+Utah	0.000024
+Vermont	0.000022000000000000003
+Virginia	0.000053
+Washington	0.000031
+West Virginia	0.000047000000000000004
+Wisconsin	0.000032000000000000005
+Wyoming	0.000026000000000000002

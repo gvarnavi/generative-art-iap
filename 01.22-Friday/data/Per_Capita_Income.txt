@@ -1,0 +1,51 @@
+Per Capita Income by state (USDollars per Years per People)
+Alabama	25746.
+Alaska	35065.
+Arizona	27964.
+Arkansas	24426.
+California	33128.
+Colorado	34845.
+Connecticut	41365.
+Delaware	32625.
+Florida	28774.
+Georgia	28015.
+Hawaii	32511.
+Idaho	25471.
+Illinois	32924.
+Indiana	27305.
+Iowa	30063.
+Kansas	29600.
+Kentucky	25888.
+Louisiana	26205.
+Maine	29886.
+Maryland	39070.
+Massachusetts	39913.
+Michigan	28938.
+Minnesota	34712.
+Mississippi	22500.
+Missouri	28282.
+Montana	28706.
+Nebraska	29866.
+Nevada	28450.
+New Hampshire	36914.
+New Jersey	39069.
+New Mexico	25257.
+New York	35752.
+North Carolina	28123.
+North Dakota	34256.
+Ohio	29011.
+Oklahoma	26461.
+Oregon	30410.
+Pennsylvania	31476.
+Rhode Island	33315.
+South Carolina	26645.
+South Dakota	28761.
+Tennessee	27277.
+Texas	28985.
+Utah	26907.
+Vermont	31917.
+Virginia	36268.
+Washington	34869.
+West Virginia	24774.
+Wisconsin	30557.
+Wyoming	31214.

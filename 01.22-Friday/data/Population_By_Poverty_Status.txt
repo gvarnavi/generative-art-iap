@@ -1,0 +1,51 @@
+Population By Poverty Status by state (People)
+Alabama	4.729116e6
+Alaska	719983.
+Arizona	6.654096e6
+Arkansas	2.890095e6
+California	3.8242946e7
+Colorado	5.31687e6
+Connecticut	3.486033e6
+Delaware	918100.
+Florida	1.9858469e7
+Georgia	9.931935e6
+Hawaii	1.383246e6
+Idaho	1.626557e6
+Illinois	1.2551822e7
+Indiana	6.412384e6
+Iowa	3.016358e6
+Kansas	2.820265e6
+Kentucky	4.287887e6
+Louisiana	4.53157e6
+Maine	1.294998e6
+Maryland	5.856088e6
+Massachusetts	6.552347e6
+Michigan	9.698121e6
+Minnesota	5.36621e6
+Mississippi	2.890123e6
+Missouri	5.89176e6
+Montana	1.004612e6
+Nebraska	1.839825e6
+Nevada	2.846365e6
+New Hampshire	1.289255e6
+New Jersey	8.783989e6
+New Mexico	2.043896e6
+New York	1.9285448e7
+North Carolina	9.783738e6
+North Dakota	719722.
+Ohio	1.1289161e7
+Oklahoma	3.780828e6
+Oregon	3.947954e6
+Pennsylvania	1.2377251e7
+Rhode Island	1.015923e6
+South Carolina	4.751345e6
+South Dakota	826297.
+Tennessee	6.436601e6
+Texas	2.6794198e7
+Utah	2.946717e6
+Vermont	600127.
+Virginia	8.11613e6
+Washington	7.037413e6
+West Virginia	1.784004e6
+Wisconsin	5.612611e6
+Wyoming	569412.

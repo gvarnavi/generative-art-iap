@@ -1,0 +1,51 @@
+Mean Elevation by state (Meters)
+Alabama	150.
+Alaska	580.
+Arizona	1300.
+Arkansas	200.
+California	880.
+Colorado	2100.
+Connecticut	150.
+Delaware	20.
+Florida	30.
+Georgia	180.
+Hawaii	920.
+Idaho	1500.
+Illinois	180.
+Indiana	210.
+Iowa	340.
+Kansas	610.
+Kentucky	230.
+Louisiana	30.
+Maine	180.
+Maryland	110.
+Massachusetts	150.
+Michigan	280.
+Minnesota	366.
+Mississippi	90.
+Missouri	240.
+Montana	1000.
+Nebraska	790.
+Nevada	1700.
+New Hampshire	300.
+New Jersey	80.
+New Mexico	1700.
+New York	300.
+North Carolina	210.
+North Dakota	580.
+Ohio	260.
+Oklahoma	400.
+Oregon	1000.
+Pennsylvania	340.
+Rhode Island	110.
+South Carolina	110.
+South Dakota	670.
+Tennessee	280.
+Texas	520.
+Utah	1860.
+Vermont	300.
+Virginia	290.
+Washington	520.
+West Virginia	460.
+Wisconsin	320.
+Wyoming	2044.

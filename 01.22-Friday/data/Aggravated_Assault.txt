@@ -1,0 +1,51 @@
+Aggravated Assault by state (crimes per Years)
+Alabama	18902.
+Alaska	4257.
+Arizona	24207.
+Arkansas	12425.
+California	104454.
+Colorado	12721.
+Connecticut	4428.
+Delaware	2891.
+Florida	58031.
+Georgia	23793.
+Hawaii	1894.
+Idaho	2953.
+Illinois	32060.
+Indiana	16976.
+Iowa	6639.
+Kansas	8458.
+Kentucky	5174.
+Louisiana	18285.
+Maine	872.
+Maryland	16836.
+Massachusetts	17319.
+Michigan	30738.
+Minnesota	7172.
+Mississippi	5119.
+Missouri	22740.
+Montana	3012.
+Nebraska	3671.
+Nevada	9662.
+New Hampshire	1572.
+New Jersey	10880.
+New Mexico	11230.
+New York	43819.
+North Carolina	24708.
+North Dakota	1533.
+Ohio	16509.
+Oklahoma	12550.
+Oregon	7139.
+Pennsylvania	23387.
+Rhode Island	1521.
+South Carolina	18668.
+South Dakota	2913.
+Tennessee	32432.
+Texas	76089.
+Utah	4172.
+Vermont	710.
+Virginia	9985.
+Washington	13673.
+West Virginia	4964.
+Wisconsin	11869.
+Wyoming	1022.

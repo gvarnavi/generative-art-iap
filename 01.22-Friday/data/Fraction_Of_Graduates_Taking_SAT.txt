@@ -1,0 +1,51 @@
+Fraction Of Graduates Taking SAT by state (Percent)
+Alabama	6.1
+Alaska	51.9
+Arizona	34.3
+Arkansas	4.1
+California	60.4
+Colorado	12.3
+Connecticut	89.3
+Delaware	100.
+Florida	74.3
+Georgia	76.9
+Hawaii	61.4
+Idaho	99.9
+Illinois	4.
+Indiana	70.9
+Iowa	2.9
+Kansas	4.8
+Kentucky	4.
+Louisiana	4.6
+Maine	95.9
+Maryland	78.7
+Massachusetts	86.20000000000002
+Michigan	3.5000000000000004
+Minnesota	5.4
+Mississippi	3.1000000000000005
+Missouri	3.7000000000000006
+Montana	15.
+Nebraska	3.5000000000000004
+Nevada	49.8
+New Hampshire	69.8
+New Jersey	81.4
+New Mexico	12.1
+New York	74.9
+North Carolina	63.2
+North Dakota	1.9
+Ohio	13.699999999999998
+Oklahoma	4.4
+Oregon	46.6
+Pennsylvania	70.6
+Rhode Island	76.8
+South Carolina	65.4
+South Dakota	2.8
+Tennessee	7.000000000000001
+Texas	64.3
+Utah	4.5
+Vermont	61.3
+Virginia	72.2
+Washington	66.2
+West Virginia	14.7
+Wisconsin	3.6000000000000005
+Wyoming	3.3000000000000003

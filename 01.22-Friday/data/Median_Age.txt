@@ -1,0 +1,51 @@
+Median Age by state (Years)
+Alabama	38.7
+Alaska	33.9
+Arizona	37.2
+Arkansas	37.9
+California	36.1
+Colorado	36.5
+Connecticut	40.8
+Delaware	39.8
+Florida	41.8
+Georgia	36.4
+Hawaii	38.8
+Idaho	35.9
+Illinois	37.7
+Indiana	37.5
+Iowa	38.1
+Kansas	36.3
+Kentucky	38.6
+Louisiana	36.4
+Maine	44.3
+Maryland	38.5
+Massachusetts	39.4
+Michigan	39.6
+Minnesota	37.9
+Mississippi	36.9
+Missouri	38.4
+Montana	39.8
+Nebraska	36.3
+Nevada	37.7
+New Hampshire	42.7
+New Jersey	39.6
+New Mexico	37.3
+New York	38.4
+North Carolina	38.4
+North Dakota	35.1
+Ohio	39.3
+Oklahoma	36.3
+Oregon	39.2
+Pennsylvania	40.7
+Rhode Island	39.9
+South Carolina	39.
+South Dakota	36.8
+Tennessee	38.6
+Texas	34.3
+Utah	30.5
+Vermont	42.8
+Virginia	38.
+Washington	37.6
+West Virginia	42.2
+Wisconsin	39.2
+Wyoming	37.

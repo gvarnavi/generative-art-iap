@@ -1,0 +1,51 @@
+Housing Starts by state (housing units per Months)
+Alabama	1254.
+Alaska	101.
+Arizona	3437.
+Arkansas	698.
+California	4654.
+Colorado	2731.
+Connecticut	279.
+Delaware	525.
+Florida	9439.
+Georgia	3885.
+Hawaii	165.
+Idaho	1130.
+Illinois	776.
+Indiana	1555.
+Iowa	803.
+Kansas	496.
+Kentucky	745.
+Louisiana	1247.
+Maine	385.
+Maryland	1002.
+Massachusetts	516.
+Michigan	1213.
+Minnesota	1256.
+Mississippi	583.
+Missouri	943.
+Montana	187.
+Nebraska	459.
+Nevada	1088.
+New Hampshire	255.
+New Jersey	984.
+New Mexico	376.
+New York	974.
+North Carolina	4724.
+North Dakota	104.
+Ohio	1524.
+Oklahoma	988.
+Oregon	943.
+Pennsylvania	1507.
+Rhode Island	85.
+South Carolina	3491.
+South Dakota	328.
+Tennessee	2696.
+Texas	12675.
+Utah	1953.
+Vermont	84.
+Virginia	1944.
+Washington	1766.
+West Virginia	215.
+Wisconsin	896.
+Wyoming	137.

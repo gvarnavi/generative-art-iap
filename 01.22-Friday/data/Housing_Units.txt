@@ -1,0 +1,51 @@
+Housing Units by state (households)
+Alabama	1.856695e6
+Alaska	252536.
+Arizona	2.482311e6
+Arkansas	1.147291e6
+California	1.2888128e7
+Colorado	2.082531e6
+Connecticut	1.361755e6
+Delaware	352357.
+Florida	7.510882e6
+Georgia	3.663104e6
+Hawaii	455502.
+Idaho	609124.
+Illinois	4.818452e6
+Indiana	2.537189e6
+Iowa	1.251587e6
+Kansas	1.121943e6
+Kentucky	1.724514e6
+Louisiana	1.737645e6
+Maine	554061.
+Maryland	2.181093e6
+Massachusetts	2.585715e6
+Michigan	3.888646e6
+Minnesota	2.153202e6
+Mississippi	1.103514e6
+Missouri	2.386203e6
+Montana	419975.
+Nebraska	748405.
+Nevada	1.052249e6
+New Hampshire	526710.
+New Jersey	3.199111e6
+New Mexico	770435.
+New York	7.30271e6
+North Carolina	3.874346e6
+North Dakota	311525.
+Ohio	4.633145e6
+Oklahoma	1.468971e6
+Oregon	1.571631e6
+Pennsylvania	5.007442e6
+Rhode Island	412028.
+South Carolina	1.871307e6
+South Dakota	339458.
+Tennessee	2.547194e6
+Texas	9.430419e6
+Utah	938365.
+Vermont	258535.
+Virginia	3.105636e6
+Washington	2.755697e6
+West Virginia	737671.
+Wisconsin	2.328754e6
+Wyoming	230237.

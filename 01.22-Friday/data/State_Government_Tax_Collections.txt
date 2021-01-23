@@ -1,0 +1,51 @@
+State Government Tax Collections by state (USDollars per Years)
+Alabama	1.1576632e10
+Alaska	1.780911e9
+Arizona	1.8163903e10
+Arkansas	1.0217866e10
+California	1.88235271e11
+Colorado	1.5869834e10
+Connecticut	1.7993741e10
+Delaware	4.595544e9
+Florida	4.4799831e10
+Georgia	2.4712873e10
+Hawaii	8.207524e9
+Idaho	4.883696e9
+Illinois	4.250129e10
+Indiana	2.0171288e10
+Iowa	1.0583869e10
+Kansas	1.0030158e10
+Kentucky	1.2895595e10
+Louisiana	1.1748609e10
+Maine	4.674441e9
+Maryland	2.3606217e10
+Massachusetts	3.180541e10
+Michigan	3.027013e10
+Minnesota	2.8175795e10
+Mississippi	8.288883e9
+Missouri	1.3181385e10
+Montana	3.168557e9
+Nebraska	5.754834e9
+Nevada	9.744547e9
+New Hampshire	2.969381e9
+New Jersey	3.8844103e10
+New Mexico	7.427647e9
+New York	9.1621218e10
+North Carolina	2.931648e10
+North Dakota	4.969744e9
+Ohio	3.014654e10
+Oklahoma	1.0731644e10
+Oregon	1.3959589e10
+Pennsylvania	4.313245e10
+Rhode Island	3.72398e9
+South Carolina	1.1221043e10
+South Dakota	1.940415e9
+Tennessee	1.4826723e10
+Texas	6.3330294e10
+Utah	9.968215e9
+Vermont	3.428588e9
+Virginia	2.6285898e10
+Washington	2.7992437e10
+West Virginia	5.938039e9
+Wisconsin	2.0039033e10
+Wyoming	2.110704e9
