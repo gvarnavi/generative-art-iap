@@ -1,4 +1,4 @@
-# Generative Art Workshop (IAP 2021)
+# Generative Art Workshop (IAP 2022)
 
 ## Tutorials
 
