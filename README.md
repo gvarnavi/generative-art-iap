@@ -12,11 +12,11 @@ While there are many great programming and scripting languages to do generative 
 2. Built-in (high-level) visualization functions
 3. The interactive Notebook format compliments the way we prototype and think of generative art
 
-We'll try and provide *most* of the content in both languages; while we'll alternate presenting certain concepts in Mathematica and others in Python, you will have the corresponding notebook in the other language for reference.
+We'll try and provide *most* of the content in both languages; while we'll alternate presenting certain concepts in the Wolfram Language and others in Python, you will have the corresponding notebook in the other language for reference.
 
 ### Installation instructions (Wolfram Language)
-If you're an MIT student, you can get a free student license for Mathematica following IST's instructions here: https://ist.mit.edu/mathematica/desktop.
-If you don't have access to an academic license, you can download the free Wolfram player here: https://www.wolfram.com/player/ (Note you won't be able to edit the code).
+If you're an MIT affiliate, you can get a free academic license for Mathematica following IST's instructions here: https://ist.mit.edu/mathematica/desktop.
+If you don't have access to an academic license, you can sign up for a free Wolfram Cloud license here: https://www.wolframcloud.com/.
 
 ### Installation instructions (Python)
 We'll be using Google's [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) to run Jupyter notebooks in Python. Google Colab is a cloud-based, free Jupyter notebook environment, and the notebooks can be downloaded if you prefer to run with a local Jupyter installation. All you need to use Google Colab is a Google account.
