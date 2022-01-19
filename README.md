@@ -1,9 +1,19 @@
 # Generative Art Workshop (IAP 2022)
-This is the git repository of the generative art workshop, taught by Jovana Andrejevic, Nina Andrejevic, and George Varnavides, in IAP 2022. This is the fifth iteration of the generative art workshop taught over IAP by the instructors (previously taught in 2021, 2020 with Amina Matt, and in 2017 and 2018 with Emma Vargo). We are indebted to Emma and Amina for some of the original content we'll use in the workshop.
+
+This is the website of the generative art workshop, taught by Jovana Andrejević, Nina Andrejević, and George Varnavides, in IAP 2022.
+This is the fifth iteration of the generative art workshop taught over IAP by the instructors (previously taught in 2021, 2020 with Amina Matt, and in 2017 and 2018 with Emma Vargo).
+We are indebted to Emma and Amina for some of the original content we'll use in the workshop.
+
+Generative art is a type of audiovisual art generated using an algorithm.
+It often lies at the intersection of mathematical patterns and aesthetic appeal and its results can be stunning and refreshing.
+In this four-day workshop we will explore some of the aspects of generative art, starting with traditional examples such as mathematical fractals and chaotic attractors, and extending it to discrete and continuous physical systems such as diffusion limited aggregation and microstructural evolution.
+We will also be exploring multiple media such as visual and audio.
 
 ## Communication
-There are two main ways in which we'll communicate for this class:
-* [Github repository](https://github.com/gvarnavi/generative-art-iap): To access the notebooks and files used in class.
+
+There are three main ways in which we'll communicate for this workshop:
+* [Website](https://gvarnavides.com/generative-art-workshop-website/): To quickle peruse the notebooks used in the workshop.
+* [Github repository](https://github.com/gvarnavi/generative-art-iap): To access the notebooks and files used in the workshop.
 * [generative-art-2022@mit.edu Mailing list](https://groups.mit.edu/webmoira/list/generative-art-2022): To communicate class-wide announcements (only as needed).
 
 ## Programming Languages
