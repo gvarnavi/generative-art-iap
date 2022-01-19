@@ -12,9 +12,9 @@ We will also be exploring multiple media such as visual and audio.
 ## Communication
 
 There are three main ways in which we'll communicate for this workshop:
-* [Website](https://gvarnavides.com/generative-art-workshop-website/): To quickle peruse the notebooks used in the workshop.
+* [Website](https://gvarnavides.com/generative-art-workshop-website/): To quickly peruse the notebooks used in the workshop.
 * [Github repository](https://github.com/gvarnavi/generative-art-iap): To access the notebooks and files used in the workshop.
-* [generative-art-2022@mit.edu Mailing list](https://groups.mit.edu/webmoira/list/generative-art-2022): To communicate class-wide announcements (only as needed).
+* [Mailing list](https://groups.mit.edu/webmoira/list/generative-art-2022): To communicate class-wide announcements (only as needed).
 
 ## Programming Languages
 While there are many great programming and scripting languages to do generative art with, the class will be taught using Python and the Wolfram Language. This choice is partly due to the following reasons (aside from the instructors' familiarity with these languages):
